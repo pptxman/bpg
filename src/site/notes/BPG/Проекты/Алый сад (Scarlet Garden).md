@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/BPG/Проекты/Алый сад (Scarlet Garden)/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/bpg/proekty/alyj-sad-scarlet-garden/","dg-note-properties":{}}
 ---
 
 
