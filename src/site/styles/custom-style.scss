@@ -11,14 +11,15 @@ body {
     //   color: black;
     // }
 
-/* Align site header with main content body */
-header, 
-.header, 
-.site-title, 
-.page-header, 
-header h1, 
-.header h1 {
-    margin-left: 0 !important;
-    padding-left: 0 !important;
-    text-indent: 0 !important;
+    /* Align site header with main content body */
+    header,
+    .header,
+    .site-title,
+    .page-header,
+    header h1,
+    .header h1 {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+        text-indent: 0 !important;
+    }
 }
