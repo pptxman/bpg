@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/index/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/BPG/Проекты/Index/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 
