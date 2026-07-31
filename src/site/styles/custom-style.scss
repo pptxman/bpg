@@ -11,26 +11,3 @@ body {
     //   color: black;
     // }
 }
-
-/* Custom Table Styling for Digital Garden */
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin: 1.5rem 0;
-    font-size: 0.95rem;
-}
-
-th, td {
-    border: 1px solid #d0d7de;
-    padding: 8px 12px;
-    text-align: left;
-}
-
-th {
-    background-color: #f6f8fa;
-    font-weight: 600;
-}
-
-tr:nth-child(even) {
-    background-color: #fdfdfd;
-}
