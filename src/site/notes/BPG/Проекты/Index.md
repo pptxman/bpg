@@ -3,4 +3,4 @@
 ---
 
 
-[Алый сад (Scarlet Garden)](Алый сад (Scarlet Garden))
+[[Алый сад (Scarlet Garden)\|Алый сад (Scarlet Garden)]]
