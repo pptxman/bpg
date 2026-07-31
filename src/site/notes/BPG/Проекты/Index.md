@@ -3,4 +3,4 @@
 ---
 
 
-[Алый сад (Scarlet Garden)❤️](Алый сад (Scarlet Garden)❤️.md)
+[Алый сад (Scarlet Garden)](Алый сад (Scarlet Garden))
