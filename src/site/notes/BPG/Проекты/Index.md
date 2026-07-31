@@ -4,3 +4,7 @@
 
 
 [[Алый сад (Scarlet Garden)\|Алый сад (Scarlet Garden)]]
+
+[[scarlet-garden\|Алый сад (Scarlet Garden)]]
+
+[Алый сад (Scarlet Garden)](scarlet-garden)
