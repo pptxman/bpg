@@ -217,24 +217,3 @@ p > code {
 .callout.is-collapsed .callout-fold .svg-icon {
     transform: rotate(-90deg);
 }
-/* Table Styles */
-table {
-    width: 100% !important;
-    border-collapse: collapse !important;
-    margin: 1.5rem 0 !important;
-}
-
-th, td {
-    border: 1px solid #d0d7de !important;
-    padding: 8px 12px !important;
-    text-align: left !important;
-}
-
-th {
-    background-color: #f6f8fa !important;
-    font-weight: 600 !important;
-}
-
-tr:nth-child(even) {
-    background-color: #fdfdfd !important;
-}
