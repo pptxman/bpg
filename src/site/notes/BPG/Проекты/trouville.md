@@ -4,12 +4,12 @@
 
 # Трувиль
 
-# Короткое описание
+## Короткое описание
 Этот сад воплощает гармонию архитектурной четкости и природной плавности.
 
 ***
 
-# Длинное описание
+## Длинное описание
 
 | **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
 | -- | -- | -- | -- | -- |
@@ -23,7 +23,7 @@
 
 ***
 
-# Английская версия
+## Английская версия
 
 | **Client** | **Architect** | **Area** | **Location** | **Year** |
 | -- | -- | -- | -- | -- |
@@ -37,7 +37,7 @@ As evening falls, warm lighting enhances the sculptural forms and lends an invit
 
 ***
 
-# Ссылки
+## Ссылки
 [**Трувиль - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/truvil/)
 [**Trouville - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/244033731/Trouville)
 Ссылка на Телеграм

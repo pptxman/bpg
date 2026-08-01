@@ -4,12 +4,12 @@
 
 # Сад на склоне (Ялта)
 
-# Короткое описание
+## Короткое описание
 Как превратить крутой горный склон в Ялте в приватный лесной сад? Мы разделили сложный рельеф на 6 функциональных зон, интегрировали костровую поляну прямо на крышу врезанного в склон гаража и создали лаунж с переливным бассейном, который визуально стирает границу между небом и морем. Разбор концепции и архитектурных решений – в карточках и [на нашем сайте](https://bugaevgardens.ru/objects/yalta/).
 
 ***
 
-# Длинное описание
+## Длинное описание
 
 | **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
 | -- | -- | -- | -- | -- |
@@ -35,13 +35,13 @@
 
 ***
 
-# Английская версия
+## Английская версия
 
 | **Client** | **Architect** | **Area** | **Location** | **Year** |
 | -- | -- | -- | -- | -- |
 | Private | Liana Tuzhba, Angelina Medvedeva | 1  700 м² | Yalta | 2023 |
 
-## The Terraced Gardens of Yalta
+### The Terraced Gardens of Yalta
 A forest area in the western suburbs of Yalta, stretching along the mountain slopes. Its main feature is its complex terrain.
  
 Conceptually, we divided the garden into six parts: the entrance area, the lounge area, the Garden Office and BBQ, the fireplace area, and the garden on the slope.
@@ -62,7 +62,7 @@ On the same level as the lounge area, in close proximity to it, we have placed a
 
 ***
 
-# Ссылки
+## Ссылки
 [**Ялта - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/yalta/)
 [**The Terraced Gardens of Yalta - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/246536233/The-Terraced-Gardens-of-Yalta?platform=direct)
 Ссылка на Телеграм

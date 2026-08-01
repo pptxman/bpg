@@ -4,12 +4,12 @@
 
 # Гоголевский❤️🏆
 
-# Короткое описание
+## Короткое описание
 Этот проект – яркий пример того, как даже компактное пространство может быть превращено в утонченный и спокойный сад.
 
 ***
 
-# Длинное описание
+## Длинное описание
 
 | **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
 | -- | -- | -- | -- | -- |
@@ -35,7 +35,7 @@
 
 ***
 
-# Английская версия
+## Английская версия
 
 | **Client** | **Architect** | **Area** | **Location** | **Year** |
 | -- | -- | -- | -- | -- |
@@ -61,12 +61,12 @@ Directly opposite the house, a summer kitchen serves as an open-air hub for cook
 
 ***
 
-# Награды
+## Награды
 XIII Российская национальная премия по ландшафтной архитектуре – Золотой диплом
 
 ***
 
-# Ссылки
+## Ссылки
 [**Гоголевский - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/gogolevskij/)
 [**Gogolevsky Garden - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/235214157/Gogolevsky-Garden)
 [**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/321)
