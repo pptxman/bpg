@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/taking-off-into-sky/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"taking-off-into-sky","permalink":"/taking-off-into-sky/","dg-note-properties":{}}
 ---
 
 # Взлетая в небо, отражаюсь в волнах (Николино 19)🎥

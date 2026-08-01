@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/lines-serenity/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"line-serenity","permalink":"/line-serenity/","dg-note-properties":{}}
 ---
 
 # Линии Серенити (Киевский)

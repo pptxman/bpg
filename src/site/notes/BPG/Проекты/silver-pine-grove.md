@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/silver-pine-grove/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"silver-pine-grove","permalink":"/silver-pine-grove/","dg-note-properties":{}}
 ---
 
 # Серебряный бор🚫

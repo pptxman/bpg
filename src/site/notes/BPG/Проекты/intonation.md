@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/intonation/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"intonation","permalink":"/intonation/","dg-note-properties":{}}
 ---
 
 # Интонация (Мангазея)❤️🎥🏆

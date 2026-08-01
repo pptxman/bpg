@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/darenka/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"darenka","permalink":"/darenka/","dg-note-properties":{}}
 ---
 
 # Даренка❤️

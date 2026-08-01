@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/renaissance/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"renaissance","permalink":"/renaissance/","dg-note-properties":{}}
 ---
 
 # Ренессанс🏆

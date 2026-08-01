@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/trouville/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"trouville","permalink":"/trouville/","dg-note-properties":{}}
 ---
 
 # Трувиль

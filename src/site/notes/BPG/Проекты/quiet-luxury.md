@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/quiet-luxury/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"quiet-luxury","permalink":"/quiet-luxury/","dg-note-properties":{}}
 ---
 
 # Тихая роскошь (Раздоры 2)🏆

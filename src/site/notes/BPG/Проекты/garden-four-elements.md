@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/garden-four-elements/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"garden-four-elements","permalink":"/garden-four-elements/","dg-note-properties":{}}
 ---
 
 # Сад четырех стихий (Фирсановка)❤️🎥

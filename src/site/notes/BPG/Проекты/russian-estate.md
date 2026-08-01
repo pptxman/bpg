@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/russian-estate/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"russian-estate","permalink":"/russian-estate/","dg-note-properties":{}}
 ---
 
 # Русская усадьба🚫

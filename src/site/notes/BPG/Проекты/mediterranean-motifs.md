@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/mediterranean-motifs/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"mediterranean-motifs","permalink":"/mediterranean-motifs/","dg-note-properties":{}}
 ---
 
 # Мотивы средиземноморья (Ромашково)❤️

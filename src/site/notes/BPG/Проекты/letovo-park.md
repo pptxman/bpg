@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/letovo-park/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"letovo-park","permalink":"/letovo-park/","dg-note-properties":{}}
 ---
 
 # Летово парк

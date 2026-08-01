@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/magic-space/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"magic-sapce","permalink":"/magic-sapce/","dg-note-properties":{}}
 ---
 
 # Магия простора (Раздоры 4)🚫 

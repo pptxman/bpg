@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/gogolevsky/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"gogolevsky","permalink":"/gogolevsky/","dg-note-properties":{}}
 ---
 
 # Гоголевский❤️🏆

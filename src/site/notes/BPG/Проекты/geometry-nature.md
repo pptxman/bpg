@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/geometry-nature/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"geometry-nature","permalink":"/geometry-nature/","dg-note-properties":{}}
 ---
 
 # Геометрия природы❤️🏆

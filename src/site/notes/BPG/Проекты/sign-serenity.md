@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/sign-serenity/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"sign-serenity","permalink":"/sign-serenity/","dg-note-properties":{}}
 ---
 
 # Знак Безмятежность (Конаково)❤️🏆

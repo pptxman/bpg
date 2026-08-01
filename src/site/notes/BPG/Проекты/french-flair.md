@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/french-flair/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"french-flair","permalink":"/french-flair/","dg-note-properties":{}}
 ---
 
 # Французский флер (Миллениум)❤️🎥

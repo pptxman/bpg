@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/symphony-embankments/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"symphony-embankments","permalink":"/symphony-embankments/","dg-note-properties":{}}
 ---
 
 # Симфония набережных (Котельническая)

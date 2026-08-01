@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/radonezh/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"radonezh","permalink":"/radonezh/","dg-note-properties":{}}
 ---
 
 # Радонежский🚫

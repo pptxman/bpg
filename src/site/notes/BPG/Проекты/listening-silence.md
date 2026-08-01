@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/listening-silence/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"listening-silence","permalink":"/listening-silence/","dg-note-properties":{}}
 ---
 
 # Слушая тишину (Гринфилд)❤️

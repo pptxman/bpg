@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bpg/proekty/green-grove/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"green-grove","permalink":"/green-grove/","dg-note-properties":{}}
 ---
 
 # Зелёная роща🏆
