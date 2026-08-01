@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"letovo-park","permalink":"/letovo-park/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"letovo-park","permalink":"/letovo-park/","title":"Летово парк","dg-note-properties":{"title":"Летово парк"}}
 ---
 
 # Летово парк

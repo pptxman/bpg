@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"silver-pine-grove","permalink":"/silver-pine-grove/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"silver-pine-grove","permalink":"/silver-pine-grove/","title":"Серебряный бор🚫","dg-note-properties":{"title":"Серебряный бор🚫"}}
 ---
 
 # Серебряный бор🚫

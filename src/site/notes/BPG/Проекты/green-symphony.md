@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"green-symphony","permalink":"/green-symphony/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"green-symphony","permalink":"/green-symphony/","title":"Зеленая симфония (Николино 240)❤️🏆","dg-note-properties":{"title":"Зеленая симфония (Николино 240)❤️🏆"}}
 ---
 
 # Зеленая симфония (Николино 240)❤️🏆

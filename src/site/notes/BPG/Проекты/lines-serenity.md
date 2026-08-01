@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"line-serenity","permalink":"/line-serenity/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"line-serenity","permalink":"/line-serenity/","title":"Линии Серенити (Киевский)","dg-note-properties":{"title":"Линии Серенити (Киевский)"}}
 ---
 
 # Линии Серенити (Киевский)

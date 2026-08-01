@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"trouville","permalink":"/trouville/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"trouville","permalink":"/trouville/","title":"Трувиль","dg-note-properties":{"title":"Трувиль"}}
 ---
 
 # Трувиль

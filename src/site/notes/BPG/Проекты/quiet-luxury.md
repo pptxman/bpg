@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"quiet-luxury","permalink":"/quiet-luxury/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"quiet-luxury","permalink":"/quiet-luxury/","title":"Тихая роскошь (Раздоры 2)🏆","dg-note-properties":{"title":"Тихая роскошь (Раздоры 2)🏆"}}
 ---
 
 # Тихая роскошь (Раздоры 2)🏆

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rhythmic-gymnastics-center","permalink":"/rhythmic-gymnastics-center/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"rhythmic-gymnastics-center","permalink":"/rhythmic-gymnastics-center/","title":"ЦХГ🚫","dg-note-properties":{"title":"ЦХГ🚫"}}
 ---
 
 # ЦХГ🚫

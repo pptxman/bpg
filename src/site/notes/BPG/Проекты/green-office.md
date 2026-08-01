@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"green-office","permalink":"/green-office/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"green-office","permalink":"/green-office/","title":"Зеленый кабинет","dg-note-properties":{"title":"Зеленый кабинет"}}
 ---
 
 # Зеленый кабинет

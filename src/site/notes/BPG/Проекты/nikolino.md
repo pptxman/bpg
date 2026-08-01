@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nikolino","permalink":"/nikolino/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"nikolino","permalink":"/nikolino/","title":"Николино❤️🏆","dg-note-properties":{"title":"Николино❤️🏆"}}
 ---
 
 # Николино❤️🏆

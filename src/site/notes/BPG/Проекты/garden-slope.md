@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"garden-slope","permalink":"/garden-slope/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"garden-slope","permalink":"/garden-slope/","title":"Сад на склоне (Ялта)","dg-note-properties":{"title":"Сад на склоне (Ялта)"}}
 ---
 
 # Сад на склоне (Ялта)
