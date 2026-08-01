@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"scarlet-garden","permalink":"/scarlet-garden/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"scarlet-garden","permalink":"/scarlet-garden/","title":"Алый сад (Scarlet Garden)","dg-note-properties":{"title":"Алый сад (Scarlet Garden)"}}
 ---
 
 
