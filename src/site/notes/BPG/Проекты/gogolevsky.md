@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gogolevsky","permalink":"/gogolevsky/","title":"Гоголевский❤️🏆","dg-note-properties":{"title":"Гоголевский❤️🏆"}}
+{"dg-publish":true,"dg-permalink":"gogolevsky","permalink":"/gogolevsky/","title":"Гоголевский","dg-note-properties":{"title":"Гоголевский"}}
 ---
 
 # Гоголевский❤️🏆

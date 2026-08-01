@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"renaissance","permalink":"/renaissance/","title":"Ренессанс🏆","dg-note-properties":{"title":"Ренессанс🏆"}}
+{"dg-publish":true,"dg-permalink":"renaissance","permalink":"/renaissance/","title":"Ренессанс","dg-note-properties":{"title":"Ренессанс"}}
 ---
 
 # Ренессанс🏆

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"sign-serenity","permalink":"/sign-serenity/","title":"Знак Безмятежность (Конаково)❤️🏆","dg-note-properties":{"title":"Знак Безмятежность (Конаково)❤️🏆"}}
+{"dg-publish":true,"dg-permalink":"sign-serenity","permalink":"/sign-serenity/","title":"Знак Безмятежность (Конаково)","dg-note-properties":{"title":"Знак Безмятежность (Конаково)"}}
 ---
 
 # Знак Безмятежность (Конаково)❤️🏆

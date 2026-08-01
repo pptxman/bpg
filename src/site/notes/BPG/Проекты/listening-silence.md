@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"listening-silence","permalink":"/listening-silence/","title":"Слушая тишину (Гринфилд)❤️","dg-note-properties":{"title":"Слушая тишину (Гринфилд)❤️"}}
+{"dg-publish":true,"dg-permalink":"listening-silence","permalink":"/listening-silence/","title":"Слушая тишину (Гринфилд)","dg-note-properties":{"title":"Слушая тишину (Гринфилд)"}}
 ---
 
 # Слушая тишину (Гринфилд)❤️

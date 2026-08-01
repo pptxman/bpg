@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"french-flair","permalink":"/french-flair/","title":"Французский флер (Миллениум)❤️🎥","dg-note-properties":{"title":"Французский флер (Миллениум)❤️🎥"}}
+{"dg-publish":true,"dg-permalink":"french-flair","permalink":"/french-flair/","title":"Французский флер (Миллениум)","dg-note-properties":{"title":"Французский флер (Миллениум)"}}
 ---
 
 # Французский флер (Миллениум)❤️🎥

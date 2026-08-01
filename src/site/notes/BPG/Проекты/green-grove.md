@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"green-grove","permalink":"/green-grove/","title":"Зелёная роща🏆","dg-note-properties":{"title":"Зелёная роща🏆"}}
+{"dg-publish":true,"dg-permalink":"green-grove","permalink":"/green-grove/","title":"Зелёная роща","dg-note-properties":{"title":"Зелёная роща"}}
 ---
 
 # Зелёная роща🏆

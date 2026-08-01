@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"radonezh","permalink":"/radonezh/","title":"Радонежский🚫","dg-note-properties":{"title":"Радонежский🚫"}}
+{"dg-publish":true,"dg-permalink":"radonezh","permalink":"/radonezh/","title":"Радонежский","dg-note-properties":{"title":"Радонежский"}}
 ---
 
 # Радонежский🚫

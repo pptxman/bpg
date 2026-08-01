@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"garden-four-elements","permalink":"/garden-four-elements/","title":"Сад четырех стихий (Фирсановка)❤️🎥","dg-note-properties":{"title":"Сад четырех стихий (Фирсановка)❤️🎥"}}
+{"dg-publish":true,"dg-permalink":"garden-four-elements","permalink":"/garden-four-elements/","title":"Сад четырех стихий (Фирсановка)","dg-note-properties":{"title":"Сад четырех стихий (Фирсановка)"}}
 ---
 
 # Сад четырех стихий (Фирсановка)❤️🎥
