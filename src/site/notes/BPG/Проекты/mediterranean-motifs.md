@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"mediterranean-motifs","permalink":"/mediterranean-motifs/","title":"Мотивы средиземноморья (Ромашково)","dg-note-properties":{"title":"Мотивы средиземноморья (Ромашково)"}}
 ---
 
-# Мотивы средиземноморья (Ромашково) ❤️
+# Мотивы средиземноморья (Ромашково)
 
 ## Короткое описание
 Уникальный архитектурно-ландшафтный ансамбль, сочетающий в себе мотивы Средиземноморья и пейзажей русского леса.
@@ -14,6 +14,14 @@
 | **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
 | -- | -- | -- | -- | -- |
 | Частное лицо | Алина Бубнова | 10 000 м² | Московская область | 2023 |
+
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
+
 
 ### Предисловие
 Узкая вытянутая форма участка, сложный рельеф с большим перепадом высот и неудачное расположение дома – все это казалось серьезными минусами, которые могли бы стать препятствием для создания прекрасного сада. Однако мы превратили недостатки участка в преимущества и придумали уникальный архитектурно-ландшафтный ансамбль. Он сочетает в себе мотивы Средиземноморья и пейзажей русского леса. Здесь можно проводить уютные вечера в окружении природной красоты и наслаждаться каждым моментом, отключившись от всех проблем и беспокойств.
@@ -44,6 +52,13 @@
 | -- | -- | -- | -- | -- |
 | Private | Alina Bubnova | 10 000 м² | Moscow region | 2023 |
 
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
+
 ### Project Overview (Mediterranean Motifs)
 The plot's narrow, elongated shape, challenging topography with significant elevation changes, and the house's somewhat awkward placement initially appeared to pose substantial challenges in creating a beautiful garden. However, these challenges were transformed into design opportunities, resulting in a unique architectural and landscape composition. This harmonious blend of Mediterranean influences and Russian forest landscapes offers a peaceful retreat. It's a space where one can unwind, surrounded by natural beauty, enjoying every moment away from the bustle of everyday life.
 
@@ -71,6 +86,12 @@ For the ultimate in relaxation, a campfire space invites contemplation. Here, th
 [**Мотивы Средиземноморья - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/motivy-sredizemnomorya/)
 [**Mediterranean Motifs - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/224909633/Mediterranean-Motifs)
 [**Проект "Мотивы средиземноморья", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/motivy-sredizemnomoryya-pj-vj~7662407)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 

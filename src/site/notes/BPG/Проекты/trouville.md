@@ -15,6 +15,13 @@
 | -- | -- | -- | -- | -- |
 | Частное лицо | Иван Бугаев | 1 000 м² | Московская область | 2022 |
 
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
+
 Этот сад воплощает гармонию архитектурной четкости и природной плавности. Ряд скульптурных форм деревьев и подстриженных живых изгородей задает пространственный ритм, а декоративные травы и кустарники свободной формы создают тактильный контраст.
  
 Сердце сада – затененная обеденная зона с линейным камином – элегантное продолжение внутреннего пространства в ландшафт. Палитра растений сдержанная, но выразительная, построена на вечнозеленой структуре и тонких текстурах. 
@@ -29,6 +36,13 @@
 | -- | -- | -- | -- | -- |
 | Private | Ivan Bugaev | 1 000 м² | Moscow region | 2022 |
 
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
+
 This garden is a study in balance between architectural precision and natural fluidity. Sculptural trees and meticulously trimmed hedges establish a clear spatial rhythm, while ornamental grasses and informal shrubs introduce texture and softness.
 
 At its core lies a shaded dining area anchored by a linear fireplace–a seamless continuation of the interior into the garden. The planting scheme is deliberately restrained, with a strong evergreen framework enriched by fine textures and seasonal nuances.
@@ -42,6 +56,12 @@ As evening falls, warm lighting enhances the sculptural forms and lends an invit
 [**Trouville - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/244033731/Trouville)
 Ссылка на Телеграм
 [**Проект "Трувиль", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/truvilly-pj-vj~7666531)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 

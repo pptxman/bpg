@@ -80,7 +80,7 @@ The site's frontage was treated with equal attention. Landscape elements near th
 Сайт: https://bugaevgardens.ru/objects/darenka/
 Behance: https://www.behance.net/gallery/236012077/Darenka-Thoughtful-Transformation
 Telegram: https://t.me/bugaevgardens/383
-Instagram: ⚠️
+Instagram: https://www.instagram.com/p/DRIGIsFjOr1/
 Flatica: https://www.houzz.ru/hznb/projects/darenka-pj-vj~5940754
 
 ***

@@ -15,6 +15,13 @@
 | -- | -- | -- | -- | -- |
 | Частное лицо | Иван Бугаев | 2 000 м² | Московская область | 2020 |
 
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
+
 Территория участка представляет собой трапецию неправильной формы с ярко выраженным и сложным рельефом. Одной из главных задач при проектировании было организовать пространство так, чтобы непростые особенности участка превратить в преимущества.
  
 ### Въездная группа
@@ -39,6 +46,13 @@
 | **Client** | **Architect** | **Area** | **Location** | **Year** |
 | -- | -- | -- | -- | -- |
 | Private | Ivan Bugaev | 2 000 м² | Moscow region | 2020 |
+
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
 
 ### Site and Design Strategy
 The site presents as an irregularly shaped trapezoid with pronounced and complex topography. A key challenge–and opportunity–of the design was to transform these difficult terrain features into defining spatial advantages.
@@ -65,6 +79,12 @@ At the garden's lower level, a multifunctional terrace adjoins the house. This s
 Ссылка на Behance
 Ссылка на Телеграм
 [**Проект "Летово Парк", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/letovo-park-pj-vj~7662159)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"silver-pine-grove","permalink":"/silver-pine-grove/","title":"Серебряный бор","dg-note-properties":{"title":"Серебряный бор"}}
 ---
 
-# Серебряный бор 🚫
+# Серебряный бор
 
 ## Короткое описание
 
@@ -14,6 +14,13 @@
 | -- | -- | -- | -- | -- |
 | Частное лицо | Алина Бубнова | 1 500 м² | Московская область | 2019 |
 
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
+
 ***
 
 ## Английская версия
@@ -22,10 +29,23 @@
 | -- | -- | -- | -- | -- |
 | Private | Алина Бубнова | 1 500 м² | Moscow region | 2019 |
 
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
+
 ***
 
 ## Ссылки
 [**Ссылка на сайт**](https://bugaevgardens.ru/objects/serebryanyj-bor/)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 

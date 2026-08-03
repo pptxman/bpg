@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"green-symphony","permalink":"/green-symphony/","title":"Зеленая симфония (Николино 240)","dg-note-properties":{"title":"Зеленая симфония (Николино 240)"}}
 ---
 
-# Зеленая симфония (Николино 240) ❤️🏆
+# Зеленая симфония (Николино 240)
 
 ## Короткое описание
 Настоящая зеленая симфония, уникальное место, где классическая планировка сада гармонично сочетается с пейзажным стилем, тем самым поддерживая неоклассическую архитектуру дома. 
@@ -14,6 +14,14 @@
 | **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
 | -- | -- | -- | -- | -- |
 | Частное лицо | Ольга Иванова, Анна Баулова | 6 400 м² | Московская область | 2024 |
+
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
+
 
 ### Предисловие
 Представьте себе участок, словно созданный для сада-мечты. Удобное расположение дома, большие открытые пространства с высокими деревьями, рельеф без выраженных перепадов высот – все это стало идеальной площадкой для создания великолепного сада, в котором можно в полной мере насладиться спокойствием и комфортом загородной жизни.
@@ -44,6 +52,12 @@
 | -- | -- | -- | -- | -- |
 | Private | Olga Ivanova, Anna Baulova | 6 400 м² | Moscow region | 2024 |
 
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
 
 ### Preface (The Green Symphony)
 Imagine a plot of land seemingly destined for a dream garden. With its convenient location, expansive open spaces framed by mature trees, and a gentle topography free of steep slopes, the site offers an ideal canvas for a refined landscape composition, one that invites serenity, elegance, and the timeless charm of country living.
@@ -78,6 +92,12 @@ This site is a living green symphony, a composition in which classical garden pr
 [**The Green Symphony - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/242632365/The-Green-Symphony)
 [**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/423)
 [**Проект "Зеленая симфония", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/zelenaya-simfoniya-pj-vj~7660272)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 

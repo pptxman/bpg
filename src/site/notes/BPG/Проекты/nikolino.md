@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"nikolino","permalink":"/nikolino/","title":"Николино","dg-note-properties":{"title":"Николино"}}
 ---
 
-# Николино ❤️🏆
+# Николино
 
 ## Короткое описание
 Галерея искусства под открытым небом и место для встреч с друзьями. Николино – один из самых амбициозных наших проектов. 
@@ -14,6 +14,13 @@
 | **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
 | -- | -- | -- | -- | -- |
 | Частное лицо | Иван Бугаев | 4 000 м² | Московская область | 2021 |
+
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
 
 ### Предисловие
 Вытянутая форма участка, сложный рельеф – главные особенности территории. Одной из важнейших задач при проектировании было создать сад, который идеально подойдет для встречи гостей и шумных посиделок. Мы организовали пространство таким образом, чтобы кажущиеся недостатки территории превратились в оригинальные преимущества, создав галерею современного искусства под открытым небом.
@@ -50,6 +57,12 @@
 | -- | -- | -- | -- | -- |
 | Private | Ivan Bugaev | 4 000 м² | Moscow region | 2021 |
 
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
 
 ### Foreword (Nikolino)
 The elongated shape of the plot and the challenging terrain define the site's character. One of our key objectives was to design a garden that seamlessly facilitates entertainment and social interaction. By strategically organizing the space, we transformed the site's perceived limitations into distinctive advantages.
@@ -89,6 +102,12 @@ ADD Awards 2022 – Диплом I место
 [**Nikolino - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/219838319/Nikolino)
 [**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/158)
 [**Проект "Николино", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/nikolino-pj-vj~7662952)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 

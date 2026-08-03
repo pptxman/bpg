@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"quiet-luxury","permalink":"/quiet-luxury/","title":"Тихая роскошь (Раздоры 2)","dg-note-properties":{"title":"Тихая роскошь (Раздоры 2)"}}
 ---
 
-# Тихая роскошь (Раздоры 2) 🏆
+# Тихая роскошь (Раздоры 2)
 
 ## Короткое описание
 Изысканный сад для молодой семьи с многофункциональным пространством и продуманным освещением.
@@ -14,6 +14,13 @@
 | **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
 | -- | -- | -- | -- | -- |
 | Частное лицо | Алина Бубнова | 1 600 м² | Московская область | 2020 |
+
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
 
 ### Задача проекта
 На участке два въезда – главный для хозяев дома и въезд для персонала. Основные постройки необходимо было связать в единое целое, сделать пространство максимально удобным и привлекательным.  Перед нами стояла сложная задача – превратить недостатки участка в их достоинства.
@@ -35,6 +42,12 @@
 | -- | -- | -- | -- | -- |
 | Private | Alina Bubnova | 1 600 м² | Moscow region | 2020 |
 
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
 
 ### Project Objective
 The site features two distinct access points: the main entrance for the residents and a separate service entrance for staff. A key design goal was to visually and functionally unify the main buildings while ensuring a comfortable and aesthetically appealing environment. One of the main challenges was to transform the site's limitations into defining advantages.
@@ -60,6 +73,12 @@ XII Российская национальная премия по ландша
 [**Quiet Luxury - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/245124707/Quiet-Luxury)
 Ссылка на Телеграм
 [**Проект "Тихая роскошь", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/tihaya-roskoshy-pj-vj~7665007)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 

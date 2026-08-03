@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"garden-four-elements","permalink":"/garden-four-elements/","title":"Сад четырех стихий (Фирсановка)","dg-note-properties":{"title":"Сад четырех стихий (Фирсановка)"}}
 ---
 
-# Сад четырех стихий (Фирсановка) ❤️🎥
+# Сад четырех стихий (Фирсановка)
 
 ## Короткое описание
 Тридцать бьющих родников, заболоченная пойма и крутой склон – исходные данные проекта, который мы превратили в концептуальный сад четырех стихий. Нам удалось укротить воду, создав чистый проточный пруд, укрепить сложный рельеф каскадом висячих садов и сохранить ощущение воздушного простора, надежно скрытого от глаз соседей. Разбор инженерных и ландшафтных решений, превративших природные вызовы в главное достоинство участка, – в карточках и [на нашем сайте](https://bugaevgardens.ru/objects/firsanovka/).
@@ -14,6 +14,13 @@
 | **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
 | -- | -- | -- | -- | -- |
 | Частное лицо | Иван Бугаев | 10 000 м² | Московская область | 2014 |
+
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
 
 ### Проектное решение
 Представьте себе участок земли, который природой разделен на три фрагмента. Первый – заболоченная пойма небольшой реки, второй – пойменная терраса с остатками леса из вековых елей, третий – довольно крутой склон похожий на дуршлаг из-за множества родников, пронизывающих его. И все это должно стать великолепным садом. Выполнимо? "Да", – ответили мы и взялись за работу.
@@ -48,6 +55,12 @@
 | -- | -- | -- | -- | -- |
 | Private | Ivan Bugaev | 10 000 м² | Moscow region | 2014 |
 
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
 
 Here's a refined and professionally polished version of your landscape architecture text, maintaining the elemental narrative and poetic rhythm while adapting it for a design presentation or portfolio context:
 
@@ -84,6 +97,12 @@ Four elements–each once a challenge, each transformed. Water tamed. Fire inv
 [**Four Elements of the Firsanovka Garden - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/246550577/Four-Elements-of-the-Firsanovka-Garden)
 Ссылка на Телеграм
 [**Проект "Сад четырех стихий", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/sad-chetyreh-stihiy-pj-vj~2307206)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 

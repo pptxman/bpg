@@ -3,7 +3,7 @@
 ---
 
 
-# Алый сад (Scarlet Garden; Филисити) ❤️
+# Алый сад (Scarlet Garden; Филисити)
 
 ## Короткое описание
 Коллаборация с японским архитектором Хироки Мацуура. Мы создали сад, где каждый уголок наполнен гармонией и спокойствием. 
@@ -69,24 +69,3 @@ Flatica: https://www.houzz.ru/hznb/projects/alyy-sad-scarlet-garden-pj-vj~765883
 #bpg #корп
 
 BPG-016 (Scarlet Garden Copy)
-
-
-> [!info] Детали проекта
-> **Заказчик:** Частное лицо
-> **Архитектор:** Иван Бугаев
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
-
-> [!info] Details
-> **Client:** Private
-> **Architect:** Ivan Bugaev
-> **Area:** 
-> **Location:**  
-> **Year:** 
-
-Сайт:
-Behance: 
-Telegram: 
-Instagram: 
-Flatica:

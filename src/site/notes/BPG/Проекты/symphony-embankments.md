@@ -15,6 +15,13 @@
 | -- | -- | -- | -- | -- |
 | СК-207 | Иван Бугаев | 2 300 м² | Москва | 2017 |
 
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
+
 ### Дерево жизни
 В этом проекте мы использовали древесину как основной материал не только из эстетических соображений. Она позволяет минимизировать нагрузки на стилобат. Из древесины также выполнены газебо, навесы на детской площадке и декоративные перегородки – трельяжи. Помимо декоративных функций трельяжи также визуально разделяют функциональные зоны. Большая подпорная стенка с восточной стороны двора декорирована классическими деревянными трельяжами, а несущие конструкции стилизованы под колонны с помощью архитектурных элементов из искусственного камня и деревянных трельяжных решеток.
 
@@ -38,6 +45,12 @@
 | -- | -- | -- | -- | -- |
 | SK-207 | Ivan Bugaev | 2 300 м² | Moscow | 2017 |
 
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
 
 ### Tree for Life
 In this project, wood was chosen as the primary material–not only for its aesthetic qualities, but also for its structural advantages. Timber elements help reduce the load on the stylobate, making it an ideal choice for this context. The gazebo, playground canopies, and decorative partitions (trellises) are all crafted from wood. Beyond their decorative appeal, the trellises provide visual separation between functional zones. A prominent retaining wall on the eastern side of the courtyard is adorned with classical wooden trellises, while its supporting buttresses are stylised as columns using architectural elements made from artificial stone and wooden grillework.
@@ -67,6 +80,12 @@ IX Российская национальная премия по ландша�
 [**Embankment Symphony - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/245122551/Embankment-Symphony)
 Ссылка на Телеграм
 [**Проект "Симфония набережных", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/simfoniya-naberezhnyh-pj-vj~5838521)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 

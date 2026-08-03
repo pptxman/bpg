@@ -15,6 +15,13 @@
 | -- | -- | -- | -- | -- |
 | Частное лицо | Лиана Тужба, Ангелина Медведева | 1  700 м² | Ялта | 2023 |
 
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
+
 Лесной участок в западном предместье города Ялта, простирающийся по горным склонам. Главная особенность – это сложный рельеф. 
 
 Концептуально мы разделили сад на шесть частей: входная группа, лаунж зона, Garden Office и BBQ, зона очага и сад на склоне.
@@ -40,6 +47,13 @@
 | **Client** | **Architect** | **Area** | **Location** | **Year** |
 | -- | -- | -- | -- | -- |
 | Private | Liana Tuzhba, Angelina Medvedeva | 1  700 м² | Yalta | 2023 |
+
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
 
 ### The Terraced Gardens of Yalta
 A forest area in the western suburbs of Yalta, stretching along the mountain slopes. Its main feature is its complex terrain.
@@ -67,6 +81,12 @@ On the same level as the lounge area, in close proximity to it, we have placed a
 [**The Terraced Gardens of Yalta - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/246536233/The-Terraced-Gardens-of-Yalta?platform=direct)
 Ссылка на Телеграм
 [**Проект "Ялта", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/yalta-pj-vj~7666554)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"renaissance","permalink":"/renaissance/","title":"Ренессанс","dg-note-properties":{"title":"Ренессанс"}}
 ---
 
-# Ренессанс 🏆
+# Ренессанс
 
 ## Короткое описание
 От торжественной осевой симметрии на въезде до полного освобождения от "диктатуры архитектуры" в глубине участка. Этот сад искусно балансирует между строгой геометрией парадного партера и плавными, случайными тропами скрытого лесного уголка с патио и водоемом. Разбор концепции, в которой сдержанная элегантность безупречно сочетается с дикой природой, – в карточках и на нашем сайте.
@@ -14,6 +14,13 @@
 | **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
 | -- | -- | -- | -- | -- |
 | Частное лицо | Иван Бугаев | 4 000 м² | Московская область | 2020 |
+
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
 
 ### Сдержанность и элегантность
 В этом саду строгие линии, осевая симметрия, сдержанность и элегантность гармонично сочетаются с плавными изгибами, свободными посадками и коврами из стелющихся растений. 
@@ -34,6 +41,13 @@
 | **Client** | **Architect** | **Area** | **Location** | **Year** |
 | -- | -- | -- | -- | -- |
 | Private | Ivan Bugaev | 4 000 м² | Moscow region | 2020 |
+
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
 
 ### Restraint and Elegance (Renaissance)
 The design is built on the contrast between formality and freedom: strict lines, axial symmetry, and architectural elegance are harmoniously balanced with fluid curves, informal plantings, and expansive carpets of creeping groundcovers.
@@ -59,6 +73,12 @@ Descending from the main garden, the character shifts dramatically. The orthogon
 [**Renaissance - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/246752019/Renaissance)
 Ссылка на Телеграм
 [**Проект "Ренессанс", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/renessans-pj-vj~7663729)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 #bpg #частн 
 
