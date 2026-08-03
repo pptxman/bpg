@@ -15,6 +15,13 @@
 | -- | -- | -- | -- | -- |
 | Частное лицо | Иван Бугаев | 300 м² | Москва | 2017 |
 
+> [!info] Детали проекта
+> **Заказчик:** Частное лицо
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 300 м²
+> **Локация:** Москва
+> **Год:** 2017
+
 ### Сад за две недели
 Этот водный сад был создан для фестиваля Moscow Flower Show 2017. Монтаж сложных конструкций и посадку растений выполнили всего за две недели. Наш сад стал самым большим за всю историю фестиваля и поразил посетителей и членов жюри эстетикой и философией.
 
@@ -26,7 +33,7 @@
 
 ***
 
-## Houzz
+## Flatica
 Наш сад – нечто большее, чем островок свежести в центре раскаленного мегаполиса. Здесь можно перенастроить свою оптику, ощутить связь всего со всем.
 
 В основе композиции сада – спираль золотого сечения как напоминание об устройстве вселенной, где нет важного и неважного, а некоторые элементы повторяются на микро- и макроуровне. Человек – часть этой живой системы.
@@ -42,6 +49,14 @@
 | **Client** | **Architect** | **Area** | **Location** | **Year** |
 | -- | -- | -- | -- | -- |
 | Private | Ivan Bugaev | 300 м² | Moscow | 2017 |
+
+> [!info] Details
+> **Client:** Private
+> **Architect:** Ivan Bugaev
+> **Area:** 300 м²
+> **Location:** Moscow
+> **Year:** 2017
+
 
 ### A Garden in a Fortnight
 This water garden was conceived and realised for the Moscow Flower Show 2017. Despite the complexity of the design and construction, the installation of structural elements and all planting works were completed within just two weeks. The result was the largest garden ever presented in the history of the festival–receiving acclaim from both the public and the professional jury for its spatial composition and conceptual clarity.
@@ -60,10 +75,12 @@ A custom-designed bench, set just below the surface of the water, invites visito
 ***
 
 ## Ссылки
-[**Геометрия природы - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/sad-geometriya-prirody/)
-[**Geometry of Nature - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/234953909/Geometry-of-Nature)
-[**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/288?single)
-[**Проект "Геометрия природы Moscow Flower Show 2017", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/sad-geometriya-prirody-moscow-flower-show-2017-pj-vj~2760162)
+
+Сайт: https://bugaevgardens.ru/objects/sad-geometriya-prirody/
+Behance: https://www.behance.net/gallery/234953909/Geometry-of-Nature
+Telegram: https://t.me/bugaevgardens/288
+Instagram: ⚠️
+Flatica: https://www.houzz.ru/hznb/projects/sad-geometriya-prirody-moscow-flower-show-2017-pj-vj~2760162
 
 ***
 
