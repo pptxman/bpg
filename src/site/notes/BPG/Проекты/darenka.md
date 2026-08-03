@@ -11,9 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Иван Бугаев | 3 200 м² | Московская область | 2016 |
+> [!info] Детали проекта
+> **Заказчик:** Частное лицо
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 3 200 м²
+> **Локация:** Московская область
+> **Год:** 2016
 
 ### Задача проекта
 На первый взгляд может показаться, что это довольно простой в исполнении проект благоустройства загородного участка. Однако мы проделали большую подготовительную инженерную работу, которая позволила превратить проблемный участок в уютное место для отдыха от городской суеты и наслаждения природной красотой.
@@ -45,10 +48,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev | 3 200 м² | Moscow region | 2016 |
-
+> [!info] Details
+> **Client:** Private
+> **Architect:** Ivan Bugaev
+> **Area:** 3 200 м²
+> **Location:** Moscow region
+> **Year:** 2016
 
 ### Thoughtful Transformation of a Woodland Garden
 A seemingly simple brief–to improve a countryside plot–unfolded into a complex, multi-stage project rooted in technical precision and design sensitivity. What began as a challenging site has been thoughtfully transformed into a serene retreat from the city, a place to appreciate nature's quiet beauty in comfort and style.
@@ -71,10 +76,12 @@ The site's frontage was treated with equal attention. Landscape elements near th
 ***
 
 ## Ссылки
-[**Даренка - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/darenka/)
-[**Darenka: Thoughtful Transformation - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/236012077/Darenka-Thoughtful-Transformation)
-[**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/383)
-[**Проект "Даренка", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/darenka-pj-vj~5940754)
+
+Сайт: https://bugaevgardens.ru/objects/darenka/
+Behance: https://www.behance.net/gallery/236012077/Darenka-Thoughtful-Transformation
+Telegram: https://t.me/bugaevgardens/383
+Instagram: ⚠️
+Flatica: https://www.houzz.ru/hznb/projects/darenka-pj-vj~5940754
 
 ***
 
