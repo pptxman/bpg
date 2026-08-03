@@ -11,9 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Иван Бугаев | 1 000 м² | Москва | 2022 |
+> [!info] Детали проекта
+> **Заказчик:** Частное лицо
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 1 000 м²
+> **Локация:** Москва
+> **Год:** 2022
 
 ### Сад на Гоголевском
 Сад занимает небольшую территорию, которая со всех сторон окружена малоэтажной застройкой. Большую же часть сада занимает автомобильный проезд. В таких условиях важно грамотно организовать пространство, чтобы получить стильный и одновременно функциональный современный сад.
@@ -37,9 +40,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev | 1 000 м² | Moscow | 2022 |
+> [!info] Details
+> **Client:** Private
+> **Architect:** Ivan Bugaev
+> **Area:** 1 000 м²
+> **Location:** Moscow
+> **Year:** 2022
 
 ### Gogolevsky Garden
 Set within a compact site enclosed by low-rise buildings, this garden had to overcome a major constraint: the dominance of a central driveway. The challenge was to organise the space in a way that balances style and utility–creating a modern garden that feels both cohesive and inviting.
@@ -67,10 +73,11 @@ XIII Российская национальная премия по ландш�
 ***
 
 ## Ссылки
-[**Гоголевский - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/gogolevskij/)
-[**Gogolevsky Garden - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/235214157/Gogolevsky-Garden)
-[**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/321)
-[**Проект "Гоголевский", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/gogolevskii-pj-vj~7659514)
+Сайт: https://bugaevgardens.ru/objects/gogolevskij/
+Behance: https://www.behance.net/gallery/235214157/Gogolevsky-Garden
+Telegram: https://t.me/bugaevgardens/321
+Instagram: ⚠️
+Flatica: https://www.houzz.ru/hznb/projects/gogolevskii-pj-vj~7659514
 
 ***
 
