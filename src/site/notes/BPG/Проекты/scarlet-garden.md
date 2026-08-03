@@ -37,7 +37,7 @@
 
 > [!info] Details
 > **Client:** MR Group  
-> **Architect:** Иван Бугаев, Наталья Сараева  
+> **Architect:** Ivan Bugaev, Natalya Saraeva  
 > **Area:** 6 400 м²  
 > **Location:** Moscow  
 > **Year:** 2022
