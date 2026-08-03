@@ -35,9 +35,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev, Natalia Saraeva | 6 400 м² | Moscow | 2022 |
+> [!info] Details
+> **Client:** MR Group  
+> **Architect:** Иван Бугаев, Наталья Сараева  
+> **Area:** 6 400 м²  
+> **Location:** Moscow  
+> **Year:** 2022
 
 
 ### Project Objective
@@ -54,7 +57,13 @@ The garden is composed of five interrelated thematic zones–Island, Zen, Centre
 
 ***
 
-## Ссылки
+> [!info] Ссылки
+> **Client:** MR Group  
+> **Architect:** Иван Бугаев, Наталья Сараева  
+> **Area:** 6 400 м²  
+> **Location:** Moscow  
+> **Year:** 2022
+
 [**Scarlet Garden - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/filicity/)
 [**Scarlet Garden - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/228002247/Scarlet-Garden)
 [**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/296)
