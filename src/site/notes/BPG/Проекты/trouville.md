@@ -11,16 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Иван Бугаев | 1 000 м² | Московская область | 2022 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** Частное лицо
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 1 000 м²
+> **Локация:** Московская область
+> **Год:** 2022
 
 Этот сад воплощает гармонию архитектурной четкости и природной плавности. Ряд скульптурных форм деревьев и подстриженных живых изгородей задает пространственный ритм, а декоративные травы и кустарники свободной формы создают тактильный контраст.
  
@@ -32,16 +28,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev | 1 000 м² | Moscow region | 2022 |
-
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** Private
+> **Architect:** Ivan Bugaev
+> **Area:** 1 000 м²
+> **Location:** Moscow region
+> **Year:** 2022
 
 This garden is a study in balance between architectural precision and natural fluidity. Sculptural trees and meticulously trimmed hedges establish a clear spatial rhythm, while ornamental grasses and informal shrubs introduce texture and softness.
 
@@ -52,16 +44,12 @@ As evening falls, warm lighting enhances the sculptural forms and lends an invit
 ***
 
 ## Ссылки
-[**Трувиль - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/truvil/)
-[**Trouville - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/244033731/Trouville)
-Ссылка на Телеграм
-[**Проект "Трувиль", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/truvilly-pj-vj~7666531)
 
-Сайт:
-Behance: 
-Telegram: 
-Instagram: 
-Flatica: 
+Сайт: https://bugaevgardens.ru/objects/truvil/
+Behance: https://www.behance.net/gallery/244033731/Trouville
+Telegram: https://t.me/bugaevgardens/512
+Instagram: https://www.instagram.com/p/Dbk9vK7De1m/
+Flatica: https://www.houzz.ru/hznb/projects/truvilly-pj-vj~7666531
 
 ***
 
