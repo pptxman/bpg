@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"silver-pine-grove","permalink":"/silver-pine-grove/","title":"Серебряный бор","dg-note-properties":{"title":"Серебряный бор"}}
 ---
 
-# Серебряный бор🚫
+# Серебряный бор 🚫
 
 ## Короткое описание
 

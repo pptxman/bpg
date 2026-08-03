@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"radonezh","permalink":"/radonezh/","title":"Радонежский","dg-note-properties":{"title":"Радонежский"}}
 ---
 
-# Радонежский🚫
+# Радонежский 🚫
 
 ## Короткое описание
 

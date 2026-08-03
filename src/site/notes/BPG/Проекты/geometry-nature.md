@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"geometry-nature","permalink":"/geometry-nature/","title":"Геометрия природы","dg-note-properties":{"title":"Геометрия природы"}}
 ---
 
-# Геометрия природы❤️🏆
+# Геометрия природы ❤️🏆
 
 ## Короткое описание
 Сад "Геометрия природы" – попытка взглянуть на среду обитания под другим углом.
@@ -10,10 +10,6 @@
 ***
 
 ## Длинное описание
-
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Иван Бугаев | 300 м² | Москва | 2017 |
 
 > [!info] Детали проекта
 > **Заказчик:** Частное лицо
@@ -46,17 +42,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev | 300 м² | Moscow | 2017 |
-
 > [!info] Details
 > **Client:** Private
 > **Architect:** Ivan Bugaev
 > **Area:** 300 м²
 > **Location:** Moscow
 > **Year:** 2017
-
 
 ### A Garden in a Fortnight
 This water garden was conceived and realised for the Moscow Flower Show 2017. Despite the complexity of the design and construction, the installation of structural elements and all planting works were completed within just two weeks. The result was the largest garden ever presented in the history of the festival–receiving acclaim from both the public and the professional jury for its spatial composition and conceptual clarity.

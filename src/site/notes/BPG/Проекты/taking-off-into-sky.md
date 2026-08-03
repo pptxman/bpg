@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"taking-off-into-sky","permalink":"/taking-off-into-sky/","title":"Взлетая в небо, отражаюсь в волнах (Николино 19)","dg-note-properties":{"title":"Взлетая в небо, отражаюсь в волнах (Николино 19)"}}
 ---
 
-# Взлетая в небо, отражаюсь в волнах (Николино 19)🎥
+# Взлетая в небо, отражаюсь в волнах (Николино 19) ❤️
 
 ## Короткое описание
 Уникальность этого проекта заключается в его масштабе и разнообразии природных ландшафтов. На 12 гектарах расположились живая река, лесной массив и открытые поляны. А также 10 садов и парков, 2 озера, банный комплекс и 6 домов. Ключевой пластический мотив – волнообразные линии. Они проходят через весь сад, проявляются в посадках, постройках, скульптурных композициях и даже в освещении.
@@ -11,9 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация**        | **Год** | 
-| ------------ | -------------- | ----------- | ------------------ | ------- |
-| Частное лицо | Иван Бугаев    | 120 000 м²  | Московская область | 2025    |
+> [!info] Детали проекта
+> **Заказчик:** Частное лицо
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 120 000 м²
+> **Локация:** Московская область  
+> **Год:** 2025
 
 ### Вступление
 Уникальность этого проекта заключается в его масштабе и разнообразии природных ландшафтов. На 12 гектарах расположились живая река, лесной массив и открытые поляны. А также 10 садов и парков, 2 озера, банный комплекс и 6 домов. Ключевой пластический мотив – волнообразные линии. Они проходят через весь сад, проявляются в посадках, постройках, скульптурных композициях и даже в освещении.
@@ -52,9 +55,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev | 12 000 м² | Moscow region | 2025 |
+> [!info] Details
+> **Заказчик:** Private
+> **Архитектор:** Ivan Bugaev
+> **Площадь:** 120 000 м² 
+> **Локация:** Moscow region
+> **Год:** 2025
 
 ### Introduction
 The uniqueness of this project lies in its scale and in the richness of its natural landscapes. Across 12 hectares, the site encompasses a living river, mature woodland, and open meadows, as well as ten gardens and parks, two lakes, a bathhouse complex, and six houses.
@@ -100,7 +106,12 @@ The aim is to retain the character of the forest while subtly enhancing its expr
 ***
 
 ## Ссылки
-https://t.me/bugaevgardens/364
+
+Сайт: https://bugaevgardens.ru/objects/vzletaya-v-nebo-otrazhayus-v-volnah/
+Behance: https://www.behance.net/gallery/248185499/Soaring-Skyward-Mirrored-in-the-Waves
+Telegram: https://t.me/bugaevgardens/364
+Instagram: ⚠️
+Flatica: https://flatica.ru/projects/vzletaia-v-nebo-otrazhaius-v-volnakh-bugaev-parks-gardens
 
 ***
 

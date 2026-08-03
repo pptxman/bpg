@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"russian-estate","permalink":"/russian-estate/","title":"Русская усадьба","dg-note-properties":{"title":"Русская усадьба"}}
 ---
 
-# Русская усадьба🚫
+# Русская усадьба 🚫
 
 ## Короткое описание
 

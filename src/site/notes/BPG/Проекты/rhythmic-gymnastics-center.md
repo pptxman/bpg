@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"rhythmic-gymnastics-center","permalink":"/rhythmic-gymnastics-center/","title":"ЦХГ","dg-note-properties":{"title":"ЦХГ"}}
 ---
 
-# ЦХГ🚫
+# ЦХГ 🚫
 
 ## Короткое описание
 

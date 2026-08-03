@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"magic-sapce","permalink":"/magic-sapce/","title":"Магия простора (Раздоры 4)","dg-note-properties":{"title":"Магия простора (Раздоры 4)"}}
 ---
 
-# Магия простора (Раздоры 4)🚫 
+# Магия простора (Раздоры 4) 🚫 
 
 ## Короткое описание
 
