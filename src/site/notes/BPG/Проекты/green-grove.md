@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"green-grove","permalink":"/green-grove/","title":"Зелёная роща","dg-note-properties":{"title":"Зелёная роща"}}
 ---
 
-# Зелёная роща 🏆
+# Зелёная роща
 
 ## Короткое описание
 Проект "Зеленая Роща" был удостоен Золотого диплома VII Российской Национальной премии по ландшафтной архитектуре и стал примером сдержанной роскоши, в которой ландшафт и архитектура ведут неспешную беседу, наслаждаясь компанией друг друга.
@@ -11,10 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Иван Бугаев | 12 000 м² | Сочи | 2015 |
-
+> [!info] Детали проекта
+> **Заказчик:** Частное лицо
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 12 000 м²
+> **Локация:** Сочи
+> **Год:** 2015
 
 Частная резиденция, расположенная в зрелом сосновом лесу на участке с выраженным рельефом. Проект был удостоен Золотого диплома VII Российской Национальной премии по ландшафтной архитектуре и стал примером сдержанной роскоши, в которой ландшафт и архитектура ведут неспешную беседу, наслаждаясь компанией друг друга. 
 
@@ -26,10 +28,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev | 12 000 м² | Sochi | 2015 |
-
+> [!info] Details
+> **Client:** Private
+> **Architect:** Ivan Bugaev
+> **Area:** 12 000 м²
+> **Location:** Sochi
+> **Year:** 2015
 
 **Green Grove** is a private residence nestled in a mature pine forest on a site with pronounced topography. Architecture and landscape are designed in subtle dialogue, each enhancing the other without dominance.
 
@@ -47,10 +51,12 @@ VII Российская национальная премия по ландша
 ***
 
 ## Ссылки
-[**Зелёная Роща - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/zelyonaya-roshha/)
-[**Green Grove - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/242608493/Green-Grove)
-[**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/413)
-[**Проект "Зеленая роща", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/sad-belyy-aist-pj-vj~956888)
+
+Сайт: https://bugaevgardens.ru/objects/zelyonaya-roshha/
+Behance: https://www.behance.net/gallery/242608493/Green-Grove
+Telegram: https://t.me/bugaevgardens/413
+Instagram: 
+Flatica: https://www.houzz.ru/hznb/projects/sad-belyy-aist-pj-vj~956888
 
 ***
 
