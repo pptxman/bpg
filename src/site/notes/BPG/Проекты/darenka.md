@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"darenka","permalink":"/darenka/","title":"Даренка","dg-note-properties":{"title":"Даренка"}}
 ---
 
-# Даренка ❤️
+# Даренка
 
 ## Короткое описание
 Обманчивая простота этого сада таит в себе глубокую инженерную и эстетическую проработку.
@@ -16,7 +16,7 @@
 > **Архитектор:** Иван Бугаев
 > **Площадь:** 3 200 м²
 > **Локация:** Московская область
-> **Год:** 2016
+> **Год:** 2017
 
 ### Задача проекта
 На первый взгляд может показаться, что это довольно простой в исполнении проект благоустройства загородного участка. Однако мы проделали большую подготовительную инженерную работу, которая позволила превратить проблемный участок в уютное место для отдыха от городской суеты и наслаждения природной красотой.
@@ -53,7 +53,7 @@
 > **Architect:** Ivan Bugaev
 > **Area:** 3 200 м²
 > **Location:** Moscow region
-> **Year:** 2016
+> **Year:** 2017
 
 ### Thoughtful Transformation of a Woodland Garden
 A seemingly simple brief–to improve a countryside plot–unfolded into a complex, multi-stage project rooted in technical precision and design sensitivity. What began as a challenging site has been thoughtfully transformed into a serene retreat from the city, a place to appreciate nature's quiet beauty in comfort and style.

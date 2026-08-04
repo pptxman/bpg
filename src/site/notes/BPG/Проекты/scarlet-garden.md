@@ -2,7 +2,6 @@
 {"dg-publish":true,"dg-permalink":"scarlet-garden","permalink":"/scarlet-garden/","title":"Алый сад (Scarlet Garden)","dg-note-properties":{"title":"Алый сад (Scarlet Garden)"}}
 ---
 
-
 # Алый сад (Scarlet Garden; Филисити)
 
 ## Короткое описание

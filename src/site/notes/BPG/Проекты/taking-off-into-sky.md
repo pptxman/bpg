@@ -105,6 +105,11 @@ The aim is to retain the character of the forest while subtly enhancing its expr
 
 ***
 
+## Награды
+ХVI Российская национальная премия по ландшафтной архитектуре – Серебряный диплом – Лучший нереализоанный проект частного объекта площадью более 1 ГА
+
+***
+
 ## Ссылки
 
 Сайт: https://bugaevgardens.ru/objects/vzletaya-v-nebo-otrazhayus-v-volnah/

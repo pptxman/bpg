@@ -59,9 +59,9 @@ Titled *Geometry of Nature*, the garden offers a contemplative perspective on th
 A custom-designed bench, set just below the surface of the water, invites visitors to withdraw from the sensory overload of the urban environment and attune themselves to a slower rhythm. The space is conceived as a sanctuary of presence and awareness–a place to pause, observe the gentle drift of fish, the shimmer of light on water, the rustle of foliage. Through this immersive experience, the garden fosters a sense of unity with the natural world and evokes the fundamental landscape values of harmony, balance, and quietude.
 
 # Награды
-- Moscow Flower Show 2017 - Золотой диплом
-- VIII Российская национальная премия по ландшафтной архитектуре - золотой диплом
-- Международный фестиваль "Архитектура, дизайн, ландшафт 2019" - Лауреат 1 премии
+- Moscow Flower Show – Лучший выставочный сад – Золотой диплом (2017)
+- VIII Российская национальная премия по ландшафтной архитектуре – Лучший реализованный выставочный сад – Золотой диплом (2017)
+- Международный фестиваль "Архитектура, дизайн, ландшафт 2019" – Выставочные сады. Реализация – Лауреат 1 премии (2019)
 
 ***
 

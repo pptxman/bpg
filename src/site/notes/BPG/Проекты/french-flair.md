@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"french-flair","permalink":"/french-flair/","title":"Французский флер (Миллениум)","dg-note-properties":{"title":"Французский флер (Миллениум)"}}
 ---
 
-# Французский флер (Миллениум) ❤️🎥
+# Французский флер (Миллениум)
 
 ## Короткое описание
 Идеальный сад для жизни и отдыха, где каждый найдет себе занятие по душе.
@@ -14,6 +14,13 @@
 | **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
 | -- | -- | -- | -- | -- |
 | Частное лицо | Иван Бугаев, Ангелина Медведева | 10 000 м² | Московская область | 2023 |
+
+> [!info] Детали проекта
+> **Заказчик:** 
+> **Архитектор:** 
+> **Площадь:** 
+> **Локация:** 
+> **Год:** 
 
 ### Предисловие
 Обширная территория участка, рельеф с небольшими перепадами высот, взрослые деревья и великолепный архитектурный ансамбль. Все это словно создано для воплощения ландшафтных идей. Идеальный сад для жизни и отдыха, где каждый найдет себе занятие по душе.
@@ -45,6 +52,13 @@
 | -- | -- | -- | -- | -- |
 | Private | Ivan Bugaev, Angelina Medvedeva | 10 000 м² | Moscow region | 2023 |
 
+> [!info] Details
+> **Client:** 
+> **Architect:** 
+> **Area:** 
+> **Location:** 
+> **Year:** 
+
 ### Foreword (French Flair)
 The area is vast, the relief is gently sloping, the trees are old and the architectural ensemble is magnificent. It is as if it had been created for the realisation of landscape ideas. A perfect garden for living and relaxing, where everyone can find something to do.
 
@@ -73,6 +87,12 @@ This garden is a symbol of refined taste. It is filled with the scents of luxury
 [**French Flair - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/221250005/French-Flair)
 [**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/186)
 [**Проект "Французский флер", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/frantsuzskiy-fler-pj-vj~7666544)
+
+Сайт:
+Behance: 
+Telegram: 
+Instagram: 
+Flatica: 
 
 ***
 
