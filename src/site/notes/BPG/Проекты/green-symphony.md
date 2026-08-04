@@ -11,16 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Ольга Иванова, Анна Баулова | 6 400 м² | Московская область | 2024 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** Частное лицо
+> **Архитектор:** Ольга Иванова, Анна Баулова
+> **Площадь:** 6 400 м²
+> **Локация:** Московская область
+> **Год:** 2024
 
 
 ### Предисловие
@@ -48,16 +44,12 @@
 
 ## Английская версия 
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Olga Ivanova, Anna Baulova | 6 400 м² | Moscow region | 2024 |
-
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** Private
+> **Architect:** Olga Ivanova, Anna Baulova
+> **Area:** 6 400 м²
+> **Location:** Moscow region
+> **Year:** 2024
 
 ### Preface (The Green Symphony)
 Imagine a plot of land seemingly destined for a dream garden. With its convenient location, expansive open spaces framed by mature trees, and a gentle topography free of steep slopes, the site offers an ideal canvas for a refined landscape composition, one that invites serenity, elegance, and the timeless charm of country living.
@@ -88,16 +80,12 @@ This site is a living green symphony, a composition in which classical garden pr
 ***
 
 ## Ссылки
-[**Зеленая симфония - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/zelenaya-simfoniya/)
-[**The Green Symphony - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/242632365/The-Green-Symphony)
-[**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/423)
-[**Проект "Зеленая симфония", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/zelenaya-simfoniya-pj-vj~7660272)
 
-Сайт:
-Behance: 
-Telegram: 
-Instagram: 
-Flatica: 
+Сайт: https://bugaevgardens.ru/objects/zelenaya-simfoniya/
+Behance: https://www.behance.net/gallery/242632365/The-Green-Symphony
+Telegram: https://t.me/bugaevgardens/423
+Instagram: ⚠️
+Flatica: https://www.houzz.ru/hznb/projects/zelenaya-simfoniya-pj-vj~7660272
 
 ***
 
