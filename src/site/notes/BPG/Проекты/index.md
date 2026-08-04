@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/bpg/proekty/index/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-
 [Алый сад (Scarlet Garden) ❤️](scarlet-garden)
 [Взлетая в небо, отражаюсь в волнах (Николино 19) ❤️🏆](taking-off-into-sky)
 [Геометрия природы ❤️🏆](geometry-nature)
@@ -18,7 +17,7 @@
 [Магия простора (Раздоры 4) 🚫](magic-space)
 [Мотивы средиземноморья (Ромашково) ❤️](mediterranean-motifs)
 [Николино ❤️🏆](nikolino)
-[Радонежский 🚫](radonezh)
+[Памятник Сергию Радонежскому 🚫](radonezh)
 [Ренессанс 🏆](renaissance)
 [Русская усадьба 🚫](russian-estate)
 [Сад на склоне (Ялта)](garden-slope)

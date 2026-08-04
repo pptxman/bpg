@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"radonezh","permalink":"/radonezh/","title":"Радонежский","dg-note-properties":{"title":"Радонежский"}}
 ---
 
-# Радонежский
+# Памятник Сергию Радонежскому
 
 ## Короткое описание
 
