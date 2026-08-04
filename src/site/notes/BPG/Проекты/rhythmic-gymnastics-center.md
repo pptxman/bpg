@@ -19,10 +19,6 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-|  | Ivan Bugaev, Angelina Medvedeva | |  |  |
-
 > [!info] Details
 > **Client:** MRGT
 > **Architect:** Ivan Bugaev, Angelina Medvedeva
