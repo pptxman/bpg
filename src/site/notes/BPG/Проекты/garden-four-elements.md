@@ -11,16 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Иван Бугаев | 10 000 м² | Московская область | 2014 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** Частное лицо
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 10 000 м²
+> **Локация:** Московская область
+> **Год:** 2015
 
 ### Проектное решение
 Представьте себе участок земли, который природой разделен на три фрагмента. Первый – заболоченная пойма небольшой реки, второй – пойменная терраса с остатками леса из вековых елей, третий – довольно крутой склон похожий на дуршлаг из-за множества родников, пронизывающих его. И все это должно стать великолепным садом. Выполнимо? "Да", – ответили мы и взялись за работу.
@@ -53,14 +49,14 @@
 
 | **Client** | **Architect** | **Area** | **Location** | **Year** |
 | -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev | 10 000 м² | Moscow region | 2014 |
+|  |  |  |  |  |
 
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** Private
+> **Architect:** Ivan Bugaev
+> **Area:** 10 000 м²
+> **Location:** Moscow region
+> **Year:** 2015
 
 Here's a refined and professionally polished version of your landscape architecture text, maintaining the elemental narrative and poetic rhythm while adapting it for a design presentation or portfolio context:
 
@@ -92,17 +88,18 @@ Four elements–each once a challenge, each transformed. Water tamed. Fire inv
 
 ***
 
-## Ссылки
-[**Сад четырех стихий - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/firsanovka/)
-[**Four Elements of the Firsanovka Garden - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/246550577/Four-Elements-of-the-Firsanovka-Garden)
-Ссылка на Телеграм
-[**Проект "Сад четырех стихий", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/sad-chetyreh-stihiy-pj-vj~2307206)
+## Награды
+ADD Awards – Ландшафтный дизайн и городская среда – Диплом III место (2019)
 
-Сайт:
-Behance: 
-Telegram: 
+***
+
+## Ссылки
+
+Сайт: https://bugaevgardens.ru/objects/firsanovka/
+Behance: https://www.behance.net/gallery/246550577/Four-Elements-of-the-Firsanovka-Garden
+Telegram: https://t.me/bugaevgardens/544
 Instagram: 
-Flatica: 
+Flatica: https://www.houzz.ru/hznb/projects/sad-chetyreh-stihiy-pj-vj~2307206
 
 ***
 
