@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"darenka","permalink":"/darenka/","title":"Тэги для Телеграма","dg-note-properties":{"title":"Тэги для Телеграма"}}
+{"dg-publish":true,"dg-permalink":"tg-tags","permalink":"/tg-tags/","title":"Тэги для Телеграма","dg-note-properties":{"title":"Тэги для Телеграма"}}
 ---
 
 |портфолио|Посты на тему наших проектов|
