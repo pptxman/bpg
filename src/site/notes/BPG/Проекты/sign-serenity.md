@@ -11,16 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Иван Бугаев | 10 000 м² | Тверская область | 2022 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** Частное лицо
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 10 000 м²
+> **Локация:** Тверская область
+> **Год:** 2022
 
 ### Знак безмятежность
 В основу проекта заложены минимализм, строгость линий и простота геометрии. Сад стал продолжением всех строений на участке, усилив и подчеркнув их архитектуру.
@@ -40,16 +36,12 @@
 
 # Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev | 10000 м² | Tver region | 2022 |
-
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** Private
+> **Architect:** Ivan Bugaev
+> **Area:** 10 000 м²
+> **Location:** Tver region
+> **Year:** 2022
 
 ### A Sign of Serenity 
 The project is based on minimalism, rigour of lines and simplicity of geometry. The garden became a continuation of all the buildings on the site, enhancing and emphasising their architecture.
@@ -68,21 +60,17 @@ The parterre and the courtyard form a single space. The heart of the garden and 
 ***
 
 ## Награды
-XII Российская национальная премия по ландшафтной архитектуре – Золотой диплом
+XII Российская национальная премия по ландшафтной архитектуре – Лучший нереализованный проект частного объекта площадью более 1 га – Золотой диплом (2021)
 
 ***
 
 ## Ссылки
-[**Конаково - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/konakovo/)
-[**Konakovo. A Sign of Serenity - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/224496295/Konakovo-A-Sign-of-Serenity)
-[**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/221)
-[**Проект "Знак Безмятежность", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/znak-bezmyatezhnosty-pj-vj~7660872)
 
-Сайт:
-Behance: 
-Telegram: 
-Instagram: 
-Flatica: 
+Сайт: https://bugaevgardens.ru/objects/konakovo/
+Behance: https://www.behance.net/gallery/224496295/Konakovo-A-Sign-of-Serenity
+Telegram: https://t.me/bugaevgardens/221
+Instagram: ⚠️
+Flatica: https://www.houzz.ru/hznb/projects/znak-bezmyatezhnosty-pj-vj~7660872
 
 ***
 
