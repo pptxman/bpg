@@ -11,16 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Ангелина Медведева | 6 800 м² | Московская область | 2022 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** Частное лицо
+> **Архитектор:** Ангелина Медведева
+> **Площадь:** 6 800 м²
+> **Локация:** Московская область
+> **Год:** 2023
 
 ### Предисловие
 Тишина – роскошь, доступная не каждому. Ничто так не восстанавливает как тишина. В тишине рождаются мысли, в тишине мы черпаем силы для нового дня. Вместо уведомлений и вибраций смартфона – щебет птиц и шепот листвы, вместо огней реклам – солнце сквозь ветви деревьев. Отключите телефон, отключитесь от мира, закройте глаза и послушайте тишину, ей есть что вам сказать. 
@@ -44,16 +40,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Angelina Medvedeva | 6 800 м² | Moscow region | 2022 |
-
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** Private
+> **Architect:** Angelina Medvedeva
+> **Area:** 6 800 м²
+> **Location:** Moscow region
+> **Year:** 2023
 
 ### Foreword (Greenfield. Listening to the Silence)
 Silence is a luxury not everyone can afford. Nothing is more restorative than silence. It is in silence that thoughts are born, in silence that we draw strength for a new day. Instead of smartphone notifications and vibrations–birds chirping and leaves whispering, instead of advertising lights–the sun through the branches of trees. Switch off your phone, disconnect from the world, close your eyes and listen to the silence, it has something to tell you.
@@ -76,16 +68,12 @@ As you move deeper into the grounds, you enter the forest. The lawn is replaced 
 ***
 
 ## Ссылки
-[**Гринфилд - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/grinfild/)
-[**Greenfield. Listening to the Silence - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/232464863/Greenfield-Listening-to-the-Silence)
-[**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/146)
-[**Проект "Слушая тишину", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/slushaya-tishinu-pj-vj~7664558?share=clipboard)
 
-Сайт:
-Behance: 
-Telegram: 
-Instagram: 
-Flatica: 
+Сайт: https://bugaevgardens.ru/objects/grinfild/
+Behance: https://www.behance.net/gallery/232464863/Greenfield-Listening-to-the-Silence
+Telegram: https://t.me/bugaevgardens/146
+Instagram: https://www.instagram.com/p/DPEyELcjMIT/
+Flatica: https://www.houzz.ru/hznb/projects/slushaya-tishinu-pj-vj~7664558/
 
 ***
 
