@@ -11,16 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Иван Бугаев | 4 000 м² | Московская область | 2021 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** Частное лицо
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 4 000 м²
+> **Локация:** Московская область
+> **Год:** 2021
 
 ### Предисловие
 Вытянутая форма участка, сложный рельеф – главные особенности территории. Одной из важнейших задач при проектировании было создать сад, который идеально подойдет для встречи гостей и шумных посиделок. Мы организовали пространство таким образом, чтобы кажущиеся недостатки территории превратились в оригинальные преимущества, создав галерею современного искусства под открытым небом.
@@ -53,16 +49,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev | 4 000 м² | Moscow region | 2021 |
-
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** Private
+> **Architect:** Ivan Bugaev
+> **Area:** 4 000 м²
+> **Location:** Moscow region
+> **Year:** 2021
 
 ### Foreword (Nikolino)
 The elongated shape of the plot and the challenging terrain define the site's character. One of our key objectives was to design a garden that seamlessly facilitates entertainment and social interaction. By strategically organizing the space, we transformed the site's perceived limitations into distinctive advantages.
@@ -98,16 +90,12 @@ ADD Awards 2022 – Диплом I место
 ***
 
 ## Ссылки
-[**Николино - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/nikolino/)
-[**Nikolino - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/219838319/Nikolino)
-[**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/158)
-[**Проект "Николино", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/nikolino-pj-vj~7662952)
 
-Сайт:
-Behance: 
-Telegram: 
-Instagram: 
-Flatica: 
+Сайт: https://bugaevgardens.ru/objects/nikolino/
+Behance: https://www.behance.net/gallery/219838319/Nikolino
+Telegram: https://t.me/bugaevgardens/158
+Instagram: https://www.instagram.com/p/DPhAlX8DeEX/
+Flatica: https://www.houzz.ru/hznb/projects/nikolino-pj-vj~7662952
 
 ***
 
