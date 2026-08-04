@@ -10,34 +10,29 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| МРГТ | Иван Бугаев, Ангелина Медведева | 60 000 м² | Сочи | 2022 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** МРГТ
+> **Архитектор:** Иван Бугаев, Ангелина Медведева
+> **Площадь:** 60 000 м²
+> **Локация:** Сочи
+> **Год:** 2022
 
 ## Английская версия
 
 | **Client** | **Architect** | **Area** | **Location** | **Year** |
 | -- | -- | -- | -- | -- |
-| MRGT | Ivan Bugaev, Angelina Medvedeva | 60 000 м² | Sochi | 2022 |
+|  | Ivan Bugaev, Angelina Medvedeva | |  |  |
 
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** MRGT
+> **Architect:** Ivan Bugaev, Angelina Medvedeva
+> **Area:** 60 000 м² 
+> **Location:** Sochi
+> **Year:** 2022
 
 ## Ссылки
-[**Ссылка на сайт**](https://bugaevgardens.ru/objects/czentr-hudozhestvennoj-gimnastiki-sochi/)
 
-Сайт:
+Сайт: https://bugaevgardens.ru/objects/czentr-hudozhestvennoj-gimnastiki-sochi/
 Behance: 
 Telegram: 
 Instagram: 
