@@ -11,16 +11,12 @@
 
 ## ￼Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| СК-207 | Иван Бугаев | 2 300 м² | Москва | 2017 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** СК-207
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 2 300 м²
+> **Локация:** Москва
+> **Год:** 2018
 
 ### Дерево жизни
 В этом проекте мы использовали древесину как основной материал не только из эстетических соображений. Она позволяет минимизировать нагрузки на стилобат. Из древесины также выполнены газебо, навесы на детской площадке и декоративные перегородки – трельяжи. Помимо декоративных функций трельяжи также визуально разделяют функциональные зоны. Большая подпорная стенка с восточной стороны двора декорирована классическими деревянными трельяжами, а несущие конструкции стилизованы под колонны с помощью архитектурных элементов из искусственного камня и деревянных трельяжных решеток.
@@ -41,16 +37,12 @@
 
 ## ￼Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| SK-207 | Ivan Bugaev | 2 300 м² | Moscow | 2017 |
-
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** SK-207
+> **Architect:** Ivan Bugaev
+> **Area:** 2 300 м²
+> **Location:** Moscow
+> **Year:** 2018
 
 ### Tree for Life
 In this project, wood was chosen as the primary material–not only for its aesthetic qualities, but also for its structural advantages. Timber elements help reduce the load on the stylobate, making it an ideal choice for this context. The gazebo, playground canopies, and decorative partitions (trellises) are all crafted from wood. Beyond their decorative appeal, the trellises provide visual separation between functional zones. A prominent retaining wall on the eastern side of the courtyard is adorned with classical wooden trellises, while its supporting buttresses are stylised as columns using architectural elements made from artificial stone and wooden grillework.
@@ -70,22 +62,18 @@ The lighting strategy mirrors that of the building façades, establishing visual
 ***
 
 ## Награды
-IX Российская национальная премия по ландшафтной архитектуре - Золотой диплом
-Лауреат II премии в международном фестивале "Архитектура, дизайн, ландшафт 2019"
+- IX Российская национальная премия по ландшафтной архитектуре – Лучший нереализованный проект комплексного благоустройства жилой среды – Золотой диплом (2018)
+- Международный фестиваль «Архитектура, дизайн, ландшафт 2019» – Благоустройство территории. Проект – Лауреат II премии (2019)
 
 ***
 
 ## Ссылки
-[**Симфония набережных - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/zhk-simfoniya-naberezhnyh/)
-[**Embankment Symphony - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/245122551/Embankment-Symphony)
-Ссылка на Телеграм
-[**Проект "Симфония набережных", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/simfoniya-naberezhnyh-pj-vj~5838521)
 
-Сайт:
-Behance: 
-Telegram: 
+Сайт: https://bugaevgardens.ru/objects/zhk-simfoniya-naberezhnyh/
+Behance: https://www.behance.net/gallery/245122551/Embankment-Symphony
+Telegram: https://t.me/bugaevgardens/519
 Instagram: 
-Flatica: 
+Flatica: https://www.houzz.ru/hznb/projects/simfoniya-naberezhnyh-pj-vj~5838521
 
 ***
 

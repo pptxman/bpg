@@ -23,7 +23,7 @@
 [Сад на склоне (Ялта)](garden-slope)
 [Сад четырех стихий (Фирсановка) ❤️🏆🎥](garden-four-elements)
 [Серебряный бор 🏆🚫](silver-pine-grove)
-[Симфония набережных (Котельническая)](symphony-embankments)
+[Симфония набережных (Котельническая) 🏆](symphony-embankments)
 [Слушая тишину (Гринфилд) ❤️](listening-silence)
 [Тихая роскошь (Раздоры 2) 🏆](quiet-luxury)
 [Трувиль](trouville)
