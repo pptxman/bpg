@@ -16,7 +16,7 @@
 > **Архитектор:** Иван Бугаев
 > **Площадь:** 4 000 м²
 > **Локация:** Московская область
-> **Год:** 2021
+> **Год:** 2022
 
 ### Предисловие
 Вытянутая форма участка, сложный рельеф – главные особенности территории. Одной из важнейших задач при проектировании было создать сад, который идеально подойдет для встречи гостей и шумных посиделок. Мы организовали пространство таким образом, чтобы кажущиеся недостатки территории превратились в оригинальные преимущества, создав галерею современного искусства под открытым небом.
@@ -54,7 +54,7 @@
 > **Architect:** Ivan Bugaev
 > **Area:** 4 000 м²
 > **Location:** Moscow region
-> **Year:** 2021
+> **Year:** 2022
 
 ### Foreword (Nikolino)
 The elongated shape of the plot and the challenging terrain define the site's character. One of our key objectives was to design a garden that seamlessly facilitates entertainment and social interaction. By strategically organizing the space, we transformed the site's perceived limitations into distinctive advantages.
@@ -82,10 +82,10 @@ Cascading ponds elevate the exclusivity of the garden's most picturesque section
 The grand staircase leading to the promenade mirrors the geometry of the water features. Engineered to create the illusion of floating, each step seamlessly integrates into the garden's composition, ensuring unity between the structural and natural elements.
 
 ## Награды
-XII Российская национальная премия по ландшафтной архитектуре – Золотой диплом
-XIII Российская национальная премия по ландшафтной архитектуре – Золотой диплом
-XIII Российская национальная премия по ландшафтной архитектуре (арт-объекты) – Золотой диплом
-ADD Awards 2022 – Диплом I место
+- XII Российская национальная премия по ландшафтной архитектуре – Лучший нереализованный проект частного объекта площадью менее 1 га – Золотой диплом (2021)
+- XIII Российская национальная премия по ландшафтной архитектуре – Лучший реализованный проект частного объекта площадью менее 1 га – Золотой диплом (2022)
+- XIII Российская национальная премия по ландшафтной архитектуре – Лучший реализованный объект средового дизайна (Капли) – Золотой диплом (2022)
+ADD Awards – Ландшафтный дизайн и городская среда – Диплом I место (2022)
 
 ***
 
