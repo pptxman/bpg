@@ -20,7 +20,7 @@
 [Памятник Сергию Радонежскому 🚫](radonezh)
 [Ренессанс 🏆 ⚠️](renaissance)
 [Русская усадьба 🚫](russian-estate)
-[Сад на склоне (Ялта)⚠️](garden-slope)
+[Сад на склоне (Ялта) ⚠️](garden-slope)
 [Сад четырех стихий (Фирсановка) ❤️ 🏆 🎥 ⚠️](garden-four-elements)
 [Серебряный бор 🏆 🚫](silver-pine-grove)
 [Симфония набережных (Котельническая) 🏆 ⚠️](symphony-embankments)
