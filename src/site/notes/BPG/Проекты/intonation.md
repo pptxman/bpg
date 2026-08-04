@@ -11,16 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Мангазея | Иван Бугаев, Ангелина Медведева | 1 000 м² | Москва | 2022 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** Мангазея
+> **Архитектор:** Иван Бугаев, Ангелина Медведева
+> **Площадь:** 1 000 м²
+> **Локация:** Москва
+> **Год:** 2022
 
 ### Задача проекта
 Интонация – клубный дом бизнес-класса в окружении парков рядом с центром Москвы. Мы создали уникальное пространство на крыше стилобата. Сад стал точкой притяжения для резидентов жилого комплекса.
@@ -38,17 +34,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Mangazeya | Ivan Bugaev, Angelina Medvedeva | 1 000 м² | Moscow, Russia | 2022 |
-
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
-
+> **Client:** Mangazeya
+> **Architect:** Ivan Bugaev, Angelina Medvedeva
+> **Area:** 1 000 м²
+> **Location:** Moscow, Russia
+> **Year:** 2022
 
 ### Project Objective (Intonation)
 Intonation is a premium-class clubhouse surrounded by parkland, located near the heart of Moscow. On the roof of the stylobate, we created a distinctive rooftop garden that now serves as a focal point and social hub for residents of the residential complex.
@@ -65,21 +56,17 @@ Envision the ideal open-air workspace. Designed for those who value both connect
 ***
 
 ## Награды
-ADD Awards 2023 – Диплом I место
+ADD Awards – Городская среда – Диплом I место (2023)
 
 ***
 
 ## Ссылки
-[**Интонация - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/zhk-intonacziya/)
-[**Intonation - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/230112119/Intonation)
-Ссылка на Телеграм
-[**Проект "Интонация", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/intonatsiya-pj-vj~7661507)
 
-Сайт:
-Behance: 
-Telegram: 
-Instagram: 
-Flatica: 
+Сайт: https://bugaevgardens.ru/objects/zhk-intonacziya/
+Behance: https://www.behance.net/gallery/230112119/Intonation
+Telegram: https://t.me/bugaevgardens/510
+Instagram: ⚠️ 
+Flatica: https://www.houzz.ru/hznb/projects/intonatsiya-pj-vj~7661507
 
 ***
 
