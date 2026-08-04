@@ -11,16 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Алина Бубнова | 1 600 м² | Московская область | 2020 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** Частное лицо
+> **Архитектор:** Алина Бубнова
+> **Площадь:** 1 600 м²
+> **Локация:** Московская область
+> **Год:** 2019
 
 ### Задача проекта
 На участке два въезда – главный для хозяев дома и въезд для персонала. Основные постройки необходимо было связать в единое целое, сделать пространство максимально удобным и привлекательным.  Перед нами стояла сложная задача – превратить недостатки участка в их достоинства.
@@ -38,16 +34,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Alina Bubnova | 1 600 м² | Moscow region | 2020 |
-
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** Private
+> **Architect:** Alina Bubnova
+> **Area:** 1 600 м²
+> **Location:** Moscow region
+> **Year:** 2019
 
 ### Project Objective
 The site features two distinct access points: the main entrance for the residents and a separate service entrance for staff. A key design goal was to visually and functionally unify the main buildings while ensuring a comfortable and aesthetically appealing environment. One of the main challenges was to transform the site's limitations into defining advantages.
@@ -64,21 +56,17 @@ To enhance the garden's ambiance after sunset, a carefully planned lighting syst
 ***
 
 ## Награды
-XII Российская национальная премия по ландшафтной архитектуре – Золотой диплом
+XII Российская национальная премия по ландшафтной архитектуре  – Лучший реализованный проект частного объекта площадью менее 1 га – Золотой диплом (2021)
 
 ***
 
 ## Ссылки
-[**Тихая роскошь - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/razdory/)
-[**Quiet Luxury - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/245124707/Quiet-Luxury)
-Ссылка на Телеграм
-[**Проект "Тихая роскошь", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/tihaya-roskoshy-pj-vj~7665007)
 
-Сайт:
-Behance: 
-Telegram: 
-Instagram: 
-Flatica: 
+Сайт: https://bugaevgardens.ru/objects/razdory/
+Behance: https://www.behance.net/gallery/245124707/Quiet-Luxury
+Telegram: https://t.me/bugaevgardens/491
+Instagram: ⚠️ 
+Flatica: https://www.houzz.ru/hznb/projects/tihaya-roskoshy-pj-vj~7665007
 
 ***
 
