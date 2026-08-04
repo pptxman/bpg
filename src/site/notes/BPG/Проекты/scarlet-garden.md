@@ -55,6 +55,11 @@ The garden is composed of five interrelated thematic zones–Island, Zen, Centre
 
 ***
 
+## Награды
+XIII Российская национальная премия по ландшафтной архитектуре – Лучший нереализованный проект комплексного благоустройства жилой среды площадью менее 1 га – Серебряный диплом
+
+***
+
 ## Ссылки
 
 Сайт: https://bugaevgardens.ru/objects/filicity/
