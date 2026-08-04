@@ -115,7 +115,7 @@ The aim is to retain the character of the forest while subtly enhancing its expr
 Сайт: https://bugaevgardens.ru/objects/vzletaya-v-nebo-otrazhayus-v-volnah/
 Behance: https://www.behance.net/gallery/248185499/Soaring-Skyward-Mirrored-in-the-Waves
 Telegram: https://t.me/bugaevgardens/364
-Instagram: ⚠️
+Instagram: https://www.instagram.com/p/DR5BujljWzq/
 Flatica: https://flatica.ru/projects/vzletaia-v-nebo-otrazhaius-v-volnakh-bugaev-parks-gardens
 
 ***

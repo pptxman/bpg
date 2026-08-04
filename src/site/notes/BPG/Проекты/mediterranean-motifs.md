@@ -77,8 +77,8 @@ For the ultimate in relaxation, a campfire space invites contemplation. Here, th
 
 Сайт: https://bugaevgardens.ru/objects/motivy-sredizemnomorya/
 Behance: https://www.behance.net/gallery/224909633/Mediterranean-Motifs
-Telegram: ⚠️
-Instagram: ⚠️ 
+Telegram: Не получилось сделать карточки
+Instagram: Не получилось сделать карточки
 Flatica: https://www.houzz.ru/hznb/projects/motivy-sredizemnomoryya-pj-vj~7662407
 
 ***

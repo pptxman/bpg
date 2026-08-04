@@ -21,10 +21,6 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-|  |  |  |  |  |
-
 > [!info] Details
 > **Client:** Private
 > **Architect:** Алина Бубнова
