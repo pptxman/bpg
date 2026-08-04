@@ -10,16 +10,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| – | Иван Бугаев | 3 000 м² | Сергиев Посад | 2014 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** –
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 3 000 м²
+> **Локация:** Сергиев Посад
+> **Год:** 2014
 
 
 ### Подарок городу в честь 700-летия Сергия Радонежского
@@ -40,21 +36,20 @@
 
 | **Client** | **Architect** | **Area** | **Location** | **Year** |
 | -- | -- | -- | -- | -- |
-| – | Ivan Bugaev | 3 000 м² | Sergiev Posad | 2014 |
+|  |  |  |  |  |
 
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** –
+> **Architect:** Ivan Bugaev
+> **Area:** 3 000 м²
+> **Location:** Sergiev Posad
+> **Year:** 2014
 
 ***
 
 ## Ссылки
-[**Ссылка на сайт**](https://bugaevgardens.ru/objects/pamyatnik-sergeyu-radonezhskomu/)
 
-Сайт:
+Сайт: https://bugaevgardens.ru/objects/pamyatnik-sergeyu-radonezhskomu/
 Behance: 
 Telegram: 
 Instagram: 
