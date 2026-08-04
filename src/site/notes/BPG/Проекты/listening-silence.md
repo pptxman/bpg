@@ -67,6 +67,11 @@ As you move deeper into the grounds, you enter the forest. The lawn is replaced 
 
 ***
 
+## Награды
+ХVI Российская национальная премия по ландшафтной архитектуре – Лучший нереализоанный проект частного объекта площадью менее 1 ГА – Слушая тишину
+
+***
+
 ## Ссылки
 
 Сайт: https://bugaevgardens.ru/objects/grinfild/

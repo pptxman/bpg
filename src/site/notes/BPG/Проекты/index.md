@@ -24,7 +24,7 @@
 [Сад четырех стихий (Фирсановка) ❤️🏆🎥](garden-four-elements)
 [Серебряный бор 🏆🚫](silver-pine-grove)
 [Симфония набережных (Котельническая) 🏆](symphony-embankments)
-[Слушая тишину (Гринфилд) ❤️](listening-silence)
+[Слушая тишину (Гринфилд) ❤️🏆](listening-silence)
 [Тихая роскошь (Раздоры 2) 🏆](quiet-luxury)
 [Трувиль](trouville)
 [Французский флер (Миллениум) ❤️🎥](french-flair)
