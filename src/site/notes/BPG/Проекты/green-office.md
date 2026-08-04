@@ -11,16 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| – | Иван Бугаев | 100 м² | Московская область | 2016 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** –
+> **Архитектор:** Иван Бугаев
+> **Площадь:** 100 м²
+> **Локация:** Московская область
+> **Год:** 2016
 
 ### Тематика сада
 В этом саду объединены две темы конкурса – столетие кинематографа и Англия. Сад выглядит как декорации к английскому фильму за счет слияния интерьера и экстерьера. Его планировка универсальна – он может существовать и сам по себе, и как фрагмент большого сада.
@@ -38,16 +34,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| – | Ivan Bugaev | 100 м² | Moscow region | 2016 |
-
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** –
+> **Architect:** Ivan Bugaev
+> **Area:** 100 м²
+> **Location:** Moscow region
+> **Year:** 2016
 
 ### Theme (Green Office)
 This exhibition garden thoughtfully intertwines two themes: the centenary of cinema and the spirit of England. Evocative of a film set from a classic English production, the garden merges interior and exterior worlds in a seamless mise-en-scène. Its composition is deliberately universal–it may stand alone or function as a compelling element within a larger garden narrative.
@@ -64,21 +56,17 @@ The central element–a freestanding fireplace clad in black slate veneer–anch
 ***
 
 ## Награды
-Moscow Flower Show 2016 – Золотая медаль
+Moscow Flower Show – Лучший выставочный сад – Золотая медаль (2016)
 
 ***
 
 ## Ссылки
-[**Зелёный кабинет - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/zelyonyj-kabinet/)
-[**Green Office - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/242684619/Green-Office)
-Ссылка на Телеграм
-[**Проект "Зеленый кабинет Moscow Flower Show 2016", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/zelenyy-kabinet-na-moscow-flower-show-2016-pj-vj~1858494)
 
-Сайт:
-Behance: 
-Telegram: 
-Instagram: 
-Flatica: 
+Сайт: https://bugaevgardens.ru/objects/zelyonyj-kabinet/
+Behance: https://www.behance.net/gallery/242684619/Green-Office
+Telegram: https://t.me/bugaevgardens/446
+Instagram: ⚠️
+Flatica: https://www.houzz.ru/hznb/projects/zelenyy-kabinet-na-moscow-flower-show-2016-pj-vj~1858494
 
 ***
 
