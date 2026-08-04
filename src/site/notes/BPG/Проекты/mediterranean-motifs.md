@@ -16,7 +16,7 @@
 > **Архитектор:** Алина Бубнова
 > **Площадь:** 10 000 м²
 > **Локация:** Московская область
-> **Год:** 2023
+> **Год:** 2024
 
 ### Предисловие
 Узкая вытянутая форма участка, сложный рельеф с большим перепадом высот и неудачное расположение дома – все это казалось серьезными минусами, которые могли бы стать препятствием для создания прекрасного сада. Однако мы превратили недостатки участка в преимущества и придумали уникальный архитектурно-ландшафтный ансамбль. Он сочетает в себе мотивы Средиземноморья и пейзажей русского леса. Здесь можно проводить уютные вечера в окружении природной красоты и наслаждаться каждым моментом, отключившись от всех проблем и беспокойств.
@@ -48,7 +48,7 @@
 > **Architect:** Alina Bubnova
 > **Area:** 10 000 м²
 > **Location:** Moscow region
-> **Year:** 2023
+> **Year:** 2024
 
 ### Project Overview (Mediterranean Motifs)
 The plot's narrow, elongated shape, challenging topography with significant elevation changes, and the house's somewhat awkward placement initially appeared to pose substantial challenges in creating a beautiful garden. However, these challenges were transformed into design opportunities, resulting in a unique architectural and landscape composition. This harmonious blend of Mediterranean influences and Russian forest landscapes offers a peaceful retreat. It's a space where one can unwind, surrounded by natural beauty, enjoying every moment away from the bustle of everyday life.
