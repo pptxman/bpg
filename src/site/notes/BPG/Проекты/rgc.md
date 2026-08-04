@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"rgc","permalink":"/rgc/","title":"ЦХГ","dg-note-properties":{"title":"ЦХГ"}}
 ---
 
-# ЦХГ
+# Центр художественной гимнастики
 
 ## Короткое описание
 
