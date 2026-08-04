@@ -16,7 +16,7 @@
 > **Архитектор:** Иван Бугаев
 > **Площадь:** 2 000 м²
 > **Локация:** Московская область
-> **Год:** 2020
+> **Год:** 2019
 
 ### Линии Серенити
 Концепция сада основана на сопоставлении удлиненной осевой планировки с мягкими, плавными изгибами. Такая пространственная композиция уравновешивает порядок инженерной мысли с органичной плавностью природных линий.
@@ -36,7 +36,7 @@
 > **Architect:** Ivan Bugaev
 > **Area:** 2 000 м²
 > **Location:** Moscow region
-> **Year:** 2020
+> **Year:** 2019
 
 ### Serenity Lines
 The concept of the garden is built on the deliberate contrast between an elongated axial layout and soft, flowing curves. This spatial dialogue articulates a balance between the precision of engineered order and the natural fluidity of organic lines. The resulting composition is both structured and poetic–a reflection of thoughtful geometry softened by nature's hand.
