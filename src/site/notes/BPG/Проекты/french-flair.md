@@ -11,16 +11,12 @@
 
 ## Длинное описание
 
-| **Заказчик** | **Архитектор** | **Площадь** | **Локация** | **Год** |
-| -- | -- | -- | -- | -- |
-| Частное лицо | Иван Бугаев, Ангелина Медведева | 10 000 м² | Московская область | 2023 |
-
 > [!info] Детали проекта
-> **Заказчик:** 
-> **Архитектор:** 
-> **Площадь:** 
-> **Локация:** 
-> **Год:** 
+> **Заказчик:** Частное лицо
+> **Архитектор:** Иван Бугаев, Ангелина Медведева
+> **Площадь:** 10 000 м²
+> **Локация:** Московская область
+> **Год:** 2024
 
 ### Предисловие
 Обширная территория участка, рельеф с небольшими перепадами высот, взрослые деревья и великолепный архитектурный ансамбль. Все это словно создано для воплощения ландшафтных идей. Идеальный сад для жизни и отдыха, где каждый найдет себе занятие по душе.
@@ -48,16 +44,12 @@
 
 ## Английская версия
 
-| **Client** | **Architect** | **Area** | **Location** | **Year** |
-| -- | -- | -- | -- | -- |
-| Private | Ivan Bugaev, Angelina Medvedeva | 10 000 м² | Moscow region | 2023 |
-
 > [!info] Details
-> **Client:** 
-> **Architect:** 
-> **Area:** 
-> **Location:** 
-> **Year:** 
+> **Client:** Private
+> **Architect:** Ivan Bugaev, Angelina Medvedeva
+> **Area:** 10 000 м²
+> **Location:** Moscow region
+> **Year:** 2024
 
 ### Foreword (French Flair)
 The area is vast, the relief is gently sloping, the trees are old and the architectural ensemble is magnificent. It is as if it had been created for the realisation of landscape ideas. A perfect garden for living and relaxing, where everyone can find something to do.
@@ -83,16 +75,12 @@ This garden is a symbol of refined taste. It is filled with the scents of luxury
 ***
 
 ## Ссылки
-[**Французский флер - Bugaev Parks & Gardens**](https://bugaevgardens.ru/objects/fleur/)
-[**French Flair - BUGAEV Parks & Gardens**](https://www.behance.net/gallery/221250005/French-Flair)
-[**BUGAEV Parks & Gardens | Ландшафтная архитектура**](https://t.me/bugaevgardens/186)
-[**Проект "Французский флер", эксперт "BUGAEV Parks & Gardens"**](https://www.houzz.ru/hznb/projects/frantsuzskiy-fler-pj-vj~7666544)
 
-Сайт:
-Behance: 
-Telegram: 
-Instagram: 
-Flatica: 
+Сайт: https://bugaevgardens.ru/objects/fleur/
+Behance: https://www.behance.net/gallery/221250005/French-Flair
+Telegram: https://t.me/bugaevgardens/186
+Instagram: https://www.instagram.com/p/DSdHx9QDYsh/
+Flatica: https://www.houzz.ru/hznb/projects/frantsuzskiy-fler-pj-vj~7666544
 
 ***
 
