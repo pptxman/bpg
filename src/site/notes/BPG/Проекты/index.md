@@ -21,7 +21,7 @@
 [Ренессанс 🏆 ⚠️](renaissance)
 [Русская усадьба 🚫](russian-estate)
 [Сад на склоне (Ялта) ⚠️](garden-slope)
-[Сад четырех стихий (Фирсановка) ❤️ 🏆 🎥 ⚠️](four-elements.md)
+[Сад четырех стихий (Фирсановка) ❤️ 🏆 🎥 ⚠️](four-elements)
 [Серебряный бор 🏆 🚫](silver-pine-grove)
 [Симфония набережных (Котельническая) 🏆 ⚠️](symphony-embankments)
 [Слушая тишину (Гринфилд) ❤️ 🏆](listening-silence)
