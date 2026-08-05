@@ -63,8 +63,8 @@ Moscow Flower Show  – Большой сад – Золотая медаль (2
 ## Ссылки
 Сайт: https://bugaevgardens.ru/objects/renessans/
 Behance: https://www.behance.net/gallery/246752019/Renaissance
-Telegram: ⚠️ 
-Instagram: ⚠️ 
+Telegram: 
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/renessans-pj-vj~7663729
 
 ***

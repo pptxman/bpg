@@ -70,8 +70,8 @@ At the garden's lower level, a multifunctional terrace adjoins the house. This s
 
 Сайт: https://bugaevgardens.ru/objects/letovo-park/
 Behance: https://www.behance.net/gallery/247496077/Letovo-Park
-Telegram: ⚠️ 
-Instagram: ⚠️ 
+Telegram: 
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/letovo-park-pj-vj~7662159
 
 ***

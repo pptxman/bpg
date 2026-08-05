@@ -70,7 +70,7 @@ A custom-designed bench, set just below the surface of the water, invites visito
 Сайт: https://bugaevgardens.ru/objects/sad-geometriya-prirody/
 Behance: https://www.behance.net/gallery/234953909/Geometry-of-Nature
 Telegram: https://t.me/bugaevgardens/288
-Instagram: ⚠️
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/sad-geometriya-prirody-moscow-flower-show-2017-pj-vj~2760162
 
 ***

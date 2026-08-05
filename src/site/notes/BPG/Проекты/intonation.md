@@ -65,7 +65,7 @@ ADD Awards – Городская среда – Диплом I место (2023
 Сайт: https://bugaevgardens.ru/objects/zhk-intonacziya/
 Behance: https://www.behance.net/gallery/230112119/Intonation
 Telegram: https://t.me/bugaevgardens/510
-Instagram: ⚠️ 
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/intonatsiya-pj-vj~7661507
 
 ***

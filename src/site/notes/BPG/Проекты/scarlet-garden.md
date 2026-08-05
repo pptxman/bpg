@@ -65,7 +65,7 @@ XIII Российская национальная премия по ландш�
 Сайт: https://bugaevgardens.ru/objects/filicity/
 Behance: https://www.behance.net/gallery/228002247/Scarlet-Garden
 Telegram: https://t.me/bugaevgardens/296
-Instagram: ⚠️
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/alyy-sad-scarlet-garden-pj-vj~7658830
 
 ***

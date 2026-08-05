@@ -65,7 +65,7 @@ XII Российская национальная премия по ландша
 Сайт: https://bugaevgardens.ru/objects/razdory/
 Behance: https://www.behance.net/gallery/245124707/Quiet-Luxury
 Telegram: https://t.me/bugaevgardens/491
-Instagram: ⚠️ 
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/tihaya-roskoshy-pj-vj~7665007
 
 ***

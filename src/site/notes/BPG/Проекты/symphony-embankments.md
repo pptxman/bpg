@@ -72,7 +72,7 @@ The lighting strategy mirrors that of the building façades, establishing visual
 Сайт: https://bugaevgardens.ru/objects/zhk-simfoniya-naberezhnyh/
 Behance: https://www.behance.net/gallery/245122551/Embankment-Symphony
 Telegram: https://t.me/bugaevgardens/519
-Instagram: ⚠️
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/simfoniya-naberezhnyh-pj-vj~5838521
 
 ***

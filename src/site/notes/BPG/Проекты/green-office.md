@@ -65,7 +65,7 @@ Moscow Flower Show – Лучший выставочный сад – Золот
 Сайт: https://bugaevgardens.ru/objects/zelyonyj-kabinet/
 Behance: https://www.behance.net/gallery/242684619/Green-Office
 Telegram: https://t.me/bugaevgardens/446
-Instagram: ⚠️
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/zelenyy-kabinet-na-moscow-flower-show-2016-pj-vj~1858494
 
 ***

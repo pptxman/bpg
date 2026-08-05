@@ -69,7 +69,7 @@ XII Российская национальная премия по ландша
 Сайт: https://bugaevgardens.ru/objects/konakovo/
 Behance: https://www.behance.net/gallery/224496295/Konakovo-A-Sign-of-Serenity
 Telegram: https://t.me/bugaevgardens/221
-Instagram: ⚠️
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/znak-bezmyatezhnosty-pj-vj~7660872
 
 ***

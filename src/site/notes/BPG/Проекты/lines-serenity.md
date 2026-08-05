@@ -54,7 +54,7 @@ The planting design plays with contrasts in form and structure, pairing crisp, e
 Сайт: https://bugaevgardens.ru/objects/kievskij/
 Behance: https://www.behance.net/gallery/248168745/Serenity-Lines
 Telegram: https://t.me/bugaevgardens/484
-Instagram: ⚠️
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/linii-sereniti-pj-vj~7377519
 
 ***

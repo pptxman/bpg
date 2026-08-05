@@ -84,7 +84,7 @@ This site is a living green symphony, a composition in which classical garden pr
 Сайт: https://bugaevgardens.ru/objects/zelenaya-simfoniya/
 Behance: https://www.behance.net/gallery/242632365/The-Green-Symphony
 Telegram: https://t.me/bugaevgardens/423
-Instagram: ⚠️
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/zelenaya-simfoniya-pj-vj~7660272
 
 ***

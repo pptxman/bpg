@@ -76,7 +76,7 @@ XIII Российская национальная премия по ландш�
 Сайт: https://bugaevgardens.ru/objects/gogolevskij/
 Behance: https://www.behance.net/gallery/235214157/Gogolevsky-Garden
 Telegram: https://t.me/bugaevgardens/321
-Instagram: ⚠️
+Instagram: 
 Flatica: https://www.houzz.ru/hznb/projects/gogolevskii-pj-vj~7659514
 
 ***
