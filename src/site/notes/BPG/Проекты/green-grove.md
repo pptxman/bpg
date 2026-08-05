@@ -16,7 +16,7 @@
 > **Архитектор:** Иван Бугаев
 > **Площадь:** 12 000 м²
 > **Локация:** Сочи
-> **Год:** 2015
+> **Год:** 2012
 
 Частная резиденция, расположенная в зрелом сосновом лесу на участке с выраженным рельефом. Проект был удостоен Золотого диплома VII Российской Национальной премии по ландшафтной архитектуре и стал примером сдержанной роскоши, в которой ландшафт и архитектура ведут неспешную беседу, наслаждаясь компанией друг друга. 
 
@@ -33,7 +33,7 @@
 > **Architect:** Ivan Bugaev
 > **Area:** 12 000 м²
 > **Location:** Sochi
-> **Year:** 2015
+> **Year:** 2012
 
 **Green Grove** is a private residence nestled in a mature pine forest on a site with pronounced topography. Architecture and landscape are designed in subtle dialogue, each enhancing the other without dominance.
 
