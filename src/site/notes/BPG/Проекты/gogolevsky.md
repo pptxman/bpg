@@ -16,7 +16,7 @@
 > **Архитектор:** Иван Бугаев
 > **Площадь:** 1 000 м²
 > **Локация:** Москва
-> **Год:** 2022
+> **Год:** 2023
 
 ### Сад на Гоголевском
 Сад занимает небольшую территорию, которая со всех сторон окружена малоэтажной застройкой. Большую же часть сада занимает автомобильный проезд. В таких условиях важно грамотно организовать пространство, чтобы получить стильный и одновременно функциональный современный сад.
@@ -45,7 +45,7 @@
 > **Architect:** Ivan Bugaev
 > **Area:** 1 000 м²
 > **Location:** Moscow
-> **Year:** 2022
+> **Year:** 2023
 
 ### Gogolevsky Garden
 Set within a compact site enclosed by low-rise buildings, this garden had to overcome a major constraint: the dominance of a central driveway. The challenge was to organise the space in a way that balances style and utility–creating a modern garden that feels both cohesive and inviting.
