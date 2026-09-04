@@ -21,7 +21,7 @@
 > **Локация:** Сочи
 > **Год:** 2012
 
-Частная резиденция, расположенная в зрелом сосновом лесу на участке с выраженным рельефом. Проект был удостоен Золотого диплома VII Российской Национальной премии по ландшафтной архитектуре и стал примером сдержанной роскоши, в которой ландшафт и архитектура ведут неспешную беседу, наслаждаясь компанией друг друга. 
+Камерный бутик-отель закрытого типа, расположенный в зрелом сосновом лесу на участке с выраженным рельефом. Проект был удостоен Золотого диплома VII Российской Национальной премии по ландшафтной архитектуре и стал примером сдержанной роскоши, в которой ландшафт и архитектура ведут неспешную беседу, наслаждаясь компанией друг друга. 
 
 Система мягких террас формирует выразительное и функциональное пространство: амфитеатральные лужайки для созерцания и встреч, ритмичные посадки с сезонной динамикой, извилистые тропы, ведущие по саду естественным маршрутом. Поддерживающие стены из натурального камня и бетона аккуратно очерчивают границы, не подавляя зеленую массу.
 
@@ -38,7 +38,7 @@
 > **Location:** Sochi
 > **Year:** 2012
 
-**Green Grove** is a private residence nestled in a mature pine forest on a site with pronounced topography. Architecture and landscape are designed in subtle dialogue, each enhancing the other without dominance.
+**Green Grove** is an intimate, members-only boutique retreat nestled in a mature pine forest on a site with pronounced topography. Architecture and landscape are designed in subtle dialogue, each enhancing the other without dominance.
 
 A system of gentle terraces shapes the terrain into expressive, functional spaces: amphitheatre-like lawns for contemplation and gatherings, rhythmic plantings with seasonal variation, and winding paths that trace a natural flow through the garden. Retaining walls of natural stone and concrete define edges with quiet precision, never overwhelming the vegetation.
 
