@@ -2,33 +2,33 @@
 {"dg-publish":true,"permalink":"/bpg/proekty/index/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
-[[BPG/Проекты/scarlet-garden\|Алый сад (Scarlet Garden) ❤️ 🏆 ⚠️]]
-[[BPG/Проекты/taking-off\|Взлетая в небо, отражаюсь в волнах (Николино 19) ❤️ 🏆]]
-[[BPG/Проекты/geometry-nature\|Геометрия природы ❤️ 🏆 ⚠️]]
-[[BPG/Проекты/gogolevsky\|Гоголевский ❤️ 🏆 ⚠️]]
-[[BPG/Проекты/darenka\|Даренка ❤️]]
-[[BPG/Проекты/green-grove\|Зелёная роща 🏆]]
-[[BPG/Проекты/green-symphony\|Зеленая симфония (Николино 240) ❤️ 🏆 ⚠️]]
-[[BPG/Проекты/green-office\|Зеленый кабинет⚠️]]
-[[BPG/Проекты/sign-serenity\|Знак Безмятежность (Конаково) ❤️ 🏆 ⚠️]]
-[[BPG/Проекты/intonation\|Интонация (Мангазея) ❤️ 🎥 ⚠️]]
-[[BPG/Проекты/letovo-park\|Летово парк ⚠️]]
-[[BPG/Проекты/lines-serenity\|Линии Серенити (Киевский) ⚠️]]
-[[BPG/Проекты/magic-space\|Магия простора (Раздоры 4) 🏆 🚫]]
-[[BPG/Проекты/mediterranean\|Мотивы средиземноморья (Ромашково) ❤️ 🏆]]
-[[BPG/Проекты/nikolino\|Николино ❤️ 🏆]]
-[[BPG/Проекты/radonezh\|Памятник Сергию Радонежскому 🏆🚫]]
-[[BPG/Проекты/renaissance\|Ренессанс 🏆 ⚠️]]
-[[BPG/Проекты/russian-estate\|Русская усадьба 🚫]]
-[[BPG/Проекты/garden-slope\|Сад на склоне (Ялта) ⚠️]]
-[[BPG/Проекты/four-elements\|Сад четырех стихий (Фирсановка) ❤️ 🏆 🎥 ⚠️]]
-[[BPG/Проекты/silver-pine-grove\|Серебряный бор 🏆 🚫]]
-[[BPG/Проекты/symphony-embankments\|Симфония набережных (Котельническая) 🏆 ⚠️]]
-[[BPG/Проекты/listening-silence\|Слушая тишину (Гринфилд) ❤️ 🏆]]
-[[BPG/Проекты/quiet-luxury\|Тихая роскошь (Раздоры 2) 🏆 ⚠️]]
-[[BPG/Проекты/trouville\|Трувиль]]
-[[BPG/Проекты/french-flair\|Французский флер (Миллениум) ❤️ 🎥]]
-[[BPG/Проекты/rgc\|Центр художественной гимнастики 🏆 🚫]]
+[Алый сад (Scarlet Garden) ❤️ 🏆 ⚠️](scarlet-garden.md)
+[Взлетая в небо, отражаюсь в волнах (Николино 19) ❤️ 🏆](taking-off.md)
+[Геометрия природы ❤️ 🏆 ⚠️](geometry-nature.md)
+[Гоголевский ❤️ 🏆 ⚠️](gogolevsky.md)
+[Даренка ❤️](darenka.md)
+[Зелёная роща 🏆](green-grove.md)
+[Зеленая симфония (Николино 240) ❤️ 🏆 ⚠️](green-symphony.md)
+[Зеленый кабинет⚠️](green-office.md)
+[Знак Безмятежность (Конаково) ❤️ 🏆 ⚠️](sign-serenity.md)
+[Интонация (Мангазея) ❤️ 🎥 ⚠️](intonation.md)
+[Летово парк ⚠️](letovo-park.md)
+[Линии Серенити (Киевский) ⚠️](lines-serenity.md)
+[Магия простора (Раздоры 4) 🏆 🚫](magic-space.md)
+[Мотивы средиземноморья (Ромашково) ❤️ 🏆](mediterranean.md)
+[Николино ❤️ 🏆](nikolino.md)
+[Памятник Сергию Радонежскому 🏆🚫](radonezh.md)
+[Ренессанс 🏆 ⚠️](renaissance.md)
+[Русская усадьба 🚫](russian-estate.md)
+[Сад на склоне (Ялта) ⚠️](garden-slope.md)
+[Сад четырех стихий (Фирсановка) ❤️ 🏆 🎥 ⚠️](four-elements.md)
+[Серебряный бор 🏆 🚫](silver-pine-grove.md)
+[Симфония набережных (Котельническая) 🏆 ⚠️](symphony-embankments.md)
+[Слушая тишину (Гринфилд) ❤️ 🏆](listening-silence.md)
+[Тихая роскошь (Раздоры 2) 🏆 ⚠️](quiet-luxury.md)
+[Трувиль](trouville.md)
+[Французский флер (Миллениум) ❤️ 🎥](french-flair.md)
+[Центр художественной гимнастики 🏆 🚫](rgc.md)
 
 ***
 
