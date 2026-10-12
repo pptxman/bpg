@@ -27,7 +27,7 @@
 ***
 
 Добавил темные и светлые варианты макетов. Переключаются в меню макетов PowerPoint. 
-![screenshot-2026-10-09-at-10-05-46-am.png](/img/user/Attachments/screenshot-2026-10-09-at-10-05-46-am.png)
+![screenshot-2026-10-12-at-12-05-15-pm.png](/img/user/Attachments/screenshot-2026-10-12-at-12-05-15-pm.png)
 
 ***
 
