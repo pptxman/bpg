@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://pptxman.github.io/obsidian">
   <title>Bugaev Parks &amp; Digital Gardens</title>
-  <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/feed.xml" rel="self"/>
-  <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)"/>
-  <updated>2026-10-12T08:47:35Z</updated>
-  <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)</id><entry>
+  <link href="https://pptxman.github.io/obsidian/feed.xml" rel="self"/>
+  <link href="https://pptxman.github.io/obsidian"/>
+  <updated>2026-10-12T08:48:02Z</updated>
+  <id>https://pptxman.github.io/obsidian</id><entry>
     <title>Ценности</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/values/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/values/</id>
     <content type="html">&lt;h1 id=&quot;czennosti&quot; tabindex=&quot;-1&quot;&gt;Ценности&lt;/h1&gt;
 &lt;h3 id=&quot;standarty-kachestva&quot; tabindex=&quot;-1&quot;&gt;Стандарты качества&lt;/h3&gt;
 &lt;p&gt;Мы используем только лучшие материалы для создания наших садов, применяем надежные технологии производства, проверенные опытом.&lt;/p&gt;
@@ -25,11 +25,11 @@
 &lt;p&gt;Важна каждая деталь как в самих проектах, так и в общем механизме работы компании.&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt;&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/values/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/values/"/>
   </entry><entry>
     <title>Хэштеги</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/tags/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/tags/</id>
     <content type="html">&lt;h1 id=&quot;telegram&quot; tabindex=&quot;-1&quot;&gt;Telegram&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!info] &lt;strong&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#тэг&quot;&gt;#тэг&lt;/a&gt;:&lt;/strong&gt; Описание&lt;br /&gt;
@@ -136,11 +136,11 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/tags/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/tags/"/>
   </entry><entry>
     <title>Услуги</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/services/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/services/</id>
     <content type="html">&lt;h1 id=&quot;uslugi&quot; tabindex=&quot;-1&quot;&gt;Услуги&lt;/h1&gt;
 &lt;h2 id=&quot;polnaya-versiya&quot; tabindex=&quot;-1&quot;&gt;Полная версия&lt;/h2&gt;
 &lt;h3 id=&quot;predproektnaya-podgotovka&quot; tabindex=&quot;-1&quot;&gt;Предпроектная подготовка&lt;/h3&gt;
@@ -239,11 +239,11 @@
 &lt;p&gt;BPG-043 (Site Texts)&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt;&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/services/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/services/"/>
   </entry><entry>
     <title>Профиль</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/profile/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/profile/</id>
     <content type="html">&lt;h1 id=&quot;profil-kompanii-2000-znakov&quot; tabindex=&quot;-1&quot;&gt;Профиль компании (2000 знаков)&lt;/h1&gt;
 &lt;p&gt;(Без био Ивана и проектов)&lt;/p&gt;
 &lt;h2 id=&quot;istoriya&quot; tabindex=&quot;-1&quot;&gt;История&lt;/h2&gt;
@@ -349,11 +349,11 @@ Moscow Flower Show&lt;/p&gt;
 &lt;p&gt;BPG-019 (About Copy)&lt;/p&gt;
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt;&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/profile/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/profile/"/>
   </entry><entry>
     <title>trouville</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/trouville/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/trouville/</id>
     <content type="html">&lt;h1 id=&quot;truvil&quot; tabindex=&quot;-1&quot;&gt;Трувиль&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Этот сад воплощает гармонию архитектурной четкости и природной плавности.&lt;/p&gt;
@@ -396,11 +396,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/truvilly-pj-vj~7666
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-041 (Trouville Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/trouville/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/trouville/"/>
   </entry><entry>
     <title>taking-off</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/taking-off/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/taking-off/</id>
     <content type="html">&lt;h1 id=&quot;vzletaya-v-nebo-otrazhayus-v-volnah-nikolino-19&quot; tabindex=&quot;-1&quot;&gt;Взлетая в небо, отражаюсь в волнах (Николино 19)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Уникальность этого проекта заключается в его масштабе и разнообразии природных ландшафтов. На 12 гектарах расположились живая река, лесной массив и открытые поляны. А также 10 садов и парков, 2 озера, банный комплекс и 6 домов. Ключевой пластический мотив – волнообразные линии. Они проходят через весь сад, проявляются в посадках, постройках, скульптурных композициях и даже в освещении.&lt;/p&gt;
@@ -492,11 +492,11 @@ Flatica: &lt;a href=&quot;https://flatica.ru/projects/vzletaia-v-nebo-otrazhaius
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-044 (Nikolino 19 Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/taking-off/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/taking-off/"/>
   </entry><entry>
     <title>symphony-embankments</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/symphony-embankments/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/symphony-embankments/</id>
     <content type="html">&lt;h1 id=&quot;simfoniya-naberezhnyh-kotelnicheskaya&quot; tabindex=&quot;-1&quot;&gt;Симфония набережных (Котельническая)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Скрытый от внешнего мира двор с садом в центре столицы. Тишина. Красота. Уединение. Спокойствие. Много зелени и изящных деталей.&lt;/p&gt;
@@ -555,11 +555,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/simfoniya-naberezhn
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#корп&quot;&gt;#корп&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-038 (Symphony Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/symphony-embankments/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/symphony-embankments/"/>
   </entry><entry>
     <title>silver-pine-grove</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/silver-pine-grove/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/silver-pine-grove/</id>
     <content type="html">&lt;h1 id=&quot;serebryanyj-bor&quot; tabindex=&quot;-1&quot;&gt;Серебряный бор&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;hr /&gt;
@@ -595,11 +595,11 @@ Flatica:&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/silver-pine-grove/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/silver-pine-grove/"/>
   </entry><entry>
     <title>sign-serenity</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/sign-serenity/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/sign-serenity/</id>
     <content type="html">&lt;h1 id=&quot;znak-bezmyatezhnost-konakovo&quot; tabindex=&quot;-1&quot;&gt;Знак Безмятежность (Конаково)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;В основу проекта заложены минимализм, строгость линий и простота геометрии. Сад стал продолжением всех строений на участке, усилив и подчеркнув их архитектуру.&lt;/p&gt;
@@ -657,11 +657,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/znak-bezmyatezhnost
 &lt;hr /&gt;
 &lt;p&gt;Yes! That &amp;quot;thin walking dude&amp;quot; is actually a very famous sculpture called &amp;quot;L&#39;Homme qui marche I&amp;quot; (&amp;quot;Walking Man I&amp;quot;) by Alberto Giacometti, created in 1961.&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/sign-serenity/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/sign-serenity/"/>
   </entry><entry>
     <title>scarlet-garden</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/scarlet-garden/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/scarlet-garden/</id>
     <content type="html">&lt;h1 id=&quot;alyj-sad-scarlet-garden-filisiti&quot; tabindex=&quot;-1&quot;&gt;Алый сад (Scarlet Garden; Филисити)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Коллаборация с японским архитектором Хироки Мацуура. Мы создали сад, где каждый уголок наполнен гармонией и спокойствием.&lt;/p&gt;
@@ -715,11 +715,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/alyy-sad-scarlet-ga
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#корп&quot;&gt;#корп&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-016 (Scarlet Garden Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/scarlet-garden/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/scarlet-garden/"/>
   </entry><entry>
     <title>russian-estate</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/russian-estate/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/russian-estate/</id>
     <content type="html">&lt;h1 id=&quot;russkaya-usadba&quot; tabindex=&quot;-1&quot;&gt;Русская усадьба&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;hr /&gt;
@@ -754,11 +754,11 @@ Flatica:&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/russian-estate/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/russian-estate/"/>
   </entry><entry>
     <title>rgc</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/rgc/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/rgc/</id>
     <content type="html">&lt;h1 id=&quot;czentr-hudozhestvennoj-gimnastiki&quot; tabindex=&quot;-1&quot;&gt;Центр художественной гимнастики&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;hr /&gt;
@@ -794,11 +794,11 @@ Flatica:&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#корп&quot;&gt;#корп&lt;/a&gt;&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/rgc/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/rgc/"/>
   </entry><entry>
     <title>renaissance</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/renaissance/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/renaissance/</id>
     <content type="html">&lt;h1 id=&quot;renessans&quot; tabindex=&quot;-1&quot;&gt;Ренессанс&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;От торжественной осевой симметрии на въезде до полного освобождения от &amp;quot;диктатуры архитектуры&amp;quot; в глубине участка. Этот сад искусно балансирует между строгой геометрией парадного партера и плавными, случайными тропами скрытого лесного уголка с патио и водоемом. Разбор концепции, в которой сдержанная элегантность безупречно сочетается с дикой природой, – в карточках и на нашем сайте.&lt;/p&gt;
@@ -852,11 +852,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/renessans-pj-vj~766
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-037 (Renaissance Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/renaissance/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/renaissance/"/>
   </entry><entry>
     <title>radonezh</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/radonezh/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/radonezh/</id>
     <content type="html">&lt;h1 id=&quot;pamyatnik-sergiyu-radonezhskomu&quot; tabindex=&quot;-1&quot;&gt;Памятник Сергию Радонежскому&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;hr /&gt;
@@ -900,11 +900,11 @@ Flatica:&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#корп&quot;&gt;#корп&lt;/a&gt;&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/radonezh/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/radonezh/"/>
   </entry><entry>
     <title>quiet-luxury</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/quiet-luxury/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/quiet-luxury/</id>
     <content type="html">&lt;h1 id=&quot;tihaya-roskosh-razdory-2&quot; tabindex=&quot;-1&quot;&gt;Тихая роскошь (Раздоры 2)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Изысканный сад для молодой семьи с многофункциональным пространством и продуманным освещением.&lt;/p&gt;
@@ -958,11 +958,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/tihaya-roskoshy-pj-
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-040 (Quiet Luxury Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/quiet-luxury/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/quiet-luxury/"/>
   </entry><entry>
     <title>nikolino</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/nikolino/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/nikolino/</id>
     <content type="html">&lt;h1 id=&quot;nikolino&quot; tabindex=&quot;-1&quot;&gt;Николино&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Галерея искусства под открытым небом и место для встреч с друзьями. Николино – один из самых амбициозных наших проектов.&lt;/p&gt;
@@ -1044,11 +1044,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/nikolino-pj-vj~7662
 &lt;a href=&quot;https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80_(%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%BE%D1%81%D1%82%D1%8C)&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;&lt;strong&gt;Тор (поверхность) – Википедия&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;https://en.wikipedia.org/wiki/Taurus_(astrology)&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;&lt;strong&gt;Taurus (astrology)&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/nikolino/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/nikolino/"/>
   </entry><entry>
     <title>mediterranean</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/mediterranean/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/mediterranean/</id>
     <content type="html">&lt;h1 id=&quot;motivy-sredizemnomorya-romashkovo&quot; tabindex=&quot;-1&quot;&gt;Мотивы средиземноморья (Ромашково)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Уникальный архитектурно-ландшафтный ансамбль, сочетающий в себе мотивы Средиземноморья и пейзажей русского леса.&lt;/p&gt;
@@ -1111,11 +1111,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/motivy-sredizemnomo
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-015 (Mediterranean Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/mediterranean/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/mediterranean/"/>
   </entry><entry>
     <title>magic-space</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/magic-space/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/magic-space/</id>
     <content type="html">&lt;h1 id=&quot;magiya-prostora-razdory-4&quot; tabindex=&quot;-1&quot;&gt;Магия простора (Раздоры 4)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;hr /&gt;
@@ -1151,11 +1151,11 @@ Flatica:&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/magic-space/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/magic-space/"/>
   </entry><entry>
     <title>listening-silence</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/listening-silence/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/listening-silence/</id>
     <content type="html">&lt;h1 id=&quot;slushaya-tishinu-grinfild&quot; tabindex=&quot;-1&quot;&gt;Слушая тишину (Гринфилд)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Создавая этот сад мы думали о месте, где можно без усилий прислушаться к своему внутреннему миру. Все здесь работает на достижение внутренней гармонии.&lt;/p&gt;
@@ -1217,11 +1217,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/slushaya-tishinu-pj
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-05 (Greenfield Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/listening-silence/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/listening-silence/"/>
   </entry><entry>
     <title>lines-serenity</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/lines-serenity/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/lines-serenity/</id>
     <content type="html">&lt;h1 id=&quot;linii-sereniti-kievskij&quot; tabindex=&quot;-1&quot;&gt;Линии Серенити (Киевский)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Концепция сада основана на сопоставлении удлиненной осевой планировки с мягкими, плавными изгибами. Такая пространственная композиция уравновешивает порядок инженерной мысли с органичной плавностью природных линий.&lt;/p&gt;
@@ -1268,11 +1268,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/linii-sereniti-pj-v
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-032 (Kievsky Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/lines-serenity/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/lines-serenity/"/>
   </entry><entry>
     <title>letovo-park</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/letovo-park/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/letovo-park/</id>
     <content type="html">&lt;h1 id=&quot;letovo-park&quot; tabindex=&quot;-1&quot;&gt;Летово парк&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Территория участка представляет собой трапецию неправильной формы с ярко выраженным и сложным рельефом. Одной из главных задач при проектировании было организовать пространство так, чтобы непростые особенности участка превратить в преимущества.&lt;/p&gt;
@@ -1335,11 +1335,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/letovo-park-pj-vj~7
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-033 (Letovo Park Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/letovo-park/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/letovo-park/"/>
   </entry><entry>
     <title>intonation</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/intonation/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/intonation/</id>
     <content type="html">&lt;h1 id=&quot;intonacziya-mangazeya&quot; tabindex=&quot;-1&quot;&gt;Интонация (Мангазея)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Интонация – клубный дом бизнес-класса в окружении парков рядом с центром Москвы. Уникальное пространство на крыше стилобата с авторскими муралами и всем необходимым для учебы, работы или отдыха.&lt;/p&gt;
@@ -1393,11 +1393,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/intonatsiya-pj-vj~7
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#корп&quot;&gt;#корп&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-021 (Intonation Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/intonation/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/intonation/"/>
   </entry><entry>
     <title>green-symphony</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/green-symphony/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/green-symphony/</id>
     <content type="html">&lt;h1 id=&quot;zelenaya-simfoniya-nikolino-240&quot; tabindex=&quot;-1&quot;&gt;Зеленая симфония (Николино 240)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Настоящая зеленая симфония, уникальное место, где классическая планировка сада гармонично сочетается с пейзажным стилем, тем самым поддерживая неоклассическую архитектуру дома.&lt;/p&gt;
@@ -1463,11 +1463,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/zelenaya-simfoniya-
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-018 (Green Symphony Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/green-symphony/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/green-symphony/"/>
   </entry><entry>
     <title>green-office</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/green-office/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/green-office/</id>
     <content type="html">&lt;h1 id=&quot;zelenyj-kabinet&quot; tabindex=&quot;-1&quot;&gt;Зеленый кабинет&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;В этом проекте объединены две темы – столетие кинематографа и Англия. Сад выглядит как декорации к английскому фильму за счет слияния интерьера и экстерьера.&lt;/p&gt;
@@ -1521,11 +1521,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/zelenyy-kabinet-na-
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#выст&quot;&gt;#выст&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-025 (Green Office)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/green-office/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/green-office/"/>
   </entry><entry>
     <title>green-grove</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/green-grove/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/green-grove/</id>
     <content type="html">&lt;h1 id=&quot;zelyonaya-roshha&quot; tabindex=&quot;-1&quot;&gt;Зелёная роща&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Камерный бутик-отель закрытого типа на участке с выраженным рельефом.&lt;/p&gt;
@@ -1572,11 +1572,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/sad-belyy-aist-pj-v
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-026 (Green Grove)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/green-grove/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/green-grove/"/>
   </entry><entry>
     <title>gogolevsky</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/gogolevsky/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/gogolevsky/</id>
     <content type="html">&lt;h1 id=&quot;gogolevskij&quot; tabindex=&quot;-1&quot;&gt;Гоголевский&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Этот проект – яркий пример того, как даже компактное пространство может быть превращено в утонченный и спокойный сад.&lt;/p&gt;
@@ -1638,11 +1638,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/gogolevskii-pj-vj~7
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-024 (Gogolevsky Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/gogolevsky/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/gogolevsky/"/>
   </entry><entry>
     <title>geometry-nature</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/geometry-nature/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/geometry-nature/</id>
     <content type="html">&lt;h1 id=&quot;geometriya-prirody&quot; tabindex=&quot;-1&quot;&gt;Геометрия природы&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Сад &amp;quot;Геометрия природы&amp;quot; – попытка взглянуть на среду обитания под другим углом.&lt;/p&gt;
@@ -1701,11 +1701,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/sad-geometriya-prir
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#выст&quot;&gt;#выст&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-017 (Geometry Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/geometry-nature/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/geometry-nature/"/>
   </entry><entry>
     <title>garden-slope</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/garden-slope/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/garden-slope/</id>
     <content type="html">&lt;h1 id=&quot;sad-na-sklone-yalta&quot; tabindex=&quot;-1&quot;&gt;Сад на склоне (Ялта)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Как превратить крутой горный склон в Ялте в приватный лесной сад? Мы разделили сложный рельеф на 6 функциональных зон, интегрировали костровую поляну прямо на крышу врезанного в склон гаража и создали лаунж с переливным бассейном, который визуально стирает границу между небом и морем. Разбор концепции и архитектурных решений – в карточках и &lt;a href=&quot;https://bugaevgardens.ru/objects/yalta/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;на нашем сайте&lt;/a&gt;.&lt;/p&gt;
@@ -1774,11 +1774,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/yalta-pj-vj~7666554
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-042 (Yalta Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/garden-slope/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/garden-slope/"/>
   </entry><entry>
     <title>french-flair</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/french-flair/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/french-flair/</id>
     <content type="html">&lt;h1 id=&quot;franczuzskij-fler-millenium&quot; tabindex=&quot;-1&quot;&gt;Французский флер (Миллениум)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Идеальный сад для жизни и отдыха, где каждый найдет себе занятие по душе.&lt;/p&gt;
@@ -1842,11 +1842,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/frantsuzskiy-fler-p
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-010 (French Flair Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/french-flair/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/french-flair/"/>
   </entry><entry>
     <title>four-elements</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/four-elements/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/four-elements/</id>
     <content type="html">&lt;h1 id=&quot;sad-chetyreh-stihij-firsanovka&quot; tabindex=&quot;-1&quot;&gt;Сад четырех стихий (Фирсановка)&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Тридцать бьющих родников, заболоченная пойма и крутой склон – исходные данные проекта, который мы превратили в концептуальный сад четырех стихий. Нам удалось укротить воду, создав чистый проточный пруд, укрепить сложный рельеф каскадом висячих садов и сохранить ощущение воздушного простора, надежно скрытого от глаз соседей. Разбор инженерных и ландшафтных решений, превративших природные вызовы в главное достоинство участка, – в карточках и &lt;a href=&quot;https://bugaevgardens.ru/objects/firsanovka/&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;на нашем сайте&lt;/a&gt;.&lt;/p&gt;
@@ -1923,11 +1923,11 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/sad-chetyreh-stihiy
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-022 (Four Elements Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/four-elements/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/four-elements/"/>
   </entry><entry>
     <title>darenka</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/darenka/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/darenka/</id>
     <content type="html">&lt;h1 id=&quot;darenka&quot; tabindex=&quot;-1&quot;&gt;Даренка&lt;/h1&gt;
 &lt;h2 id=&quot;korotkoe-opisanie&quot; tabindex=&quot;-1&quot;&gt;Короткое описание&lt;/h2&gt;
 &lt;p&gt;Обманчивая простота этого сада таит в себе глубокую инженерную и эстетическую проработку.&lt;/p&gt;
@@ -1992,41 +1992,41 @@ Flatica: &lt;a href=&quot;https://www.houzz.ru/hznb/projects/darenka-pj-vj~59407
 &lt;p&gt;&lt;a class=&quot;tag&quot; data-content=&quot;#bpg&quot;&gt;#bpg&lt;/a&gt; &lt;a class=&quot;tag&quot; data-content=&quot;#частн&quot;&gt;#частн&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;BPG-031 (Darenka Copy)&lt;/p&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/darenka/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/darenka/"/>
   </entry><entry>
     <title>AND AFL</title>
-    <updated>2026-10-12T08:47:20Z</updated>
-    <id>https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/and-afl/</id>
+    <updated>2026-10-12T08:47:47Z</updated>
+    <id>https://pptxman.github.io/obsidian/obsidian/and-afl/</id>
     <content type="html">&lt;h1 id=&quot;09-10-2026&quot; tabindex=&quot;-1&quot;&gt;09-10-2026&lt;/h1&gt;
 &lt;p&gt;Добавил в шаблон шрифт Montserrat.&lt;br /&gt;
-&lt;img src=&quot;/img/user/Attachments/screenshot-2026-10-09-at-8-44-26-am.png&quot; alt=&quot;screenshot-2026-10-09-at-8-44-26-am.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://pptxman.github.io/img/user/Attachments/screenshot-2026-10-09-at-8-44-26-am.png&quot; alt=&quot;screenshot-2026-10-09-at-8-44-26-am.png&quot; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Добавил цвета в шаблон и проверил, чтобы они везде совпадали. Дополнительные оттенки серого взял из ББ.&lt;br /&gt;
-&lt;img src=&quot;/img/user/Attachments/screenshot-2026-10-09-at-8-59-39-am.png&quot; alt=&quot;screenshot-2026-10-09-at-8-59-39-am.png&quot; /&gt;&lt;br /&gt;
-&lt;img src=&quot;/img/user/Attachments/screenshot-2026-10-11-at-8-05-13-am.png&quot; alt=&quot;screenshot-2026-10-11-at-8-05-13-am.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://pptxman.github.io/img/user/Attachments/screenshot-2026-10-09-at-8-59-39-am.png&quot; alt=&quot;screenshot-2026-10-09-at-8-59-39-am.png&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;https://pptxman.github.io/img/user/Attachments/screenshot-2026-10-11-at-8-05-13-am.png&quot; alt=&quot;screenshot-2026-10-11-at-8-05-13-am.png&quot; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Скорректировал направляющие и выравнял элементы.&lt;br /&gt;
-&lt;img src=&quot;/img/user/Attachments/screenshot-2026-10-09-at-9-50-49-am.png&quot; alt=&quot;screenshot-2026-10-09-at-9-50-49-am.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://pptxman.github.io/img/user/Attachments/screenshot-2026-10-09-at-9-50-49-am.png&quot; alt=&quot;screenshot-2026-10-09-at-9-50-49-am.png&quot; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Зафиксировал расположение логотипа с названием курса. Название курса задается через меню Колонтитулов (Header &amp;amp; Footer).&lt;br /&gt;
-&lt;img src=&quot;/img/user/Attachments/screenshot-2026-10-09-at-10-58-56-am.png&quot; alt=&quot;screenshot-2026-10-09-at-10-58-56-am.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://pptxman.github.io/img/user/Attachments/screenshot-2026-10-09-at-10-58-56-am.png&quot; alt=&quot;screenshot-2026-10-09-at-10-58-56-am.png&quot; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Добавил темные и светлые варианты макетов. Переключаются в меню макетов PowerPoint.&lt;br /&gt;
-&lt;img src=&quot;/img/user/Attachments/screenshot-2026-10-09-at-10-05-46-am.png&quot; alt=&quot;screenshot-2026-10-09-at-10-05-46-am.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://pptxman.github.io/img/user/Attachments/screenshot-2026-10-09-at-10-05-46-am.png&quot; alt=&quot;screenshot-2026-10-09-at-10-05-46-am.png&quot; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Добавил элементы навигации.&lt;br /&gt;
-&lt;img src=&quot;/img/user/Attachments/screenshot-2026-10-11-at-9-36-40-AM.png&quot; alt=&quot;screenshot-2026-10-11-at-9-36-40-AM.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://pptxman.github.io/img/user/Attachments/screenshot-2026-10-11-at-9-36-40-AM.png&quot; alt=&quot;screenshot-2026-10-11-at-9-36-40-AM.png&quot; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Заанимировал морфом (трансформация) прогресс-бар. Как обсуждали на созвоне, этот прогресс-бар нужно будет вручную адаптировать под количество и порядок слайдов. Также добавил анимации, где это возможно и уместно.&lt;br /&gt;
 ![[untitled.mp4]]&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Добавил дополнительный серый для второстепенных элементов. Немного изменил шрифтовую иерархию.&lt;br /&gt;
-&lt;img src=&quot;/img/user/Attachments/screenshot-2026-10-11-at-9-38-28-am.png&quot; alt=&quot;screenshot-2026-10-11-at-9-38-28-am.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://pptxman.github.io/img/user/Attachments/screenshot-2026-10-11-at-9-38-28-am.png&quot; alt=&quot;screenshot-2026-10-11-at-9-38-28-am.png&quot; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;Добавил UI-элементы&lt;br /&gt;
-&lt;img src=&quot;/img/user/Attachments/screenshot-2026-10-11-at-9-42-24-am.png&quot; alt=&quot;screenshot-2026-10-11-at-9-42-24-am.png&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://pptxman.github.io/img/user/Attachments/screenshot-2026-10-11-at-9-42-24-am.png&quot; alt=&quot;screenshot-2026-10-11-at-9-42-24-am.png&quot; /&gt;&lt;/p&gt;
 &lt;hr /&gt;
 </content>
-    <link href="https://[https://pptxman.github.io/obsidian](https://pptxman.github.io/obsidian)/obsidian/and-afl/"/>
+    <link href="https://pptxman.github.io/obsidian/obsidian/and-afl/"/>
   </entry></feed>
 
