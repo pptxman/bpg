@@ -32,7 +32,7 @@
 ***
 
 Добавил элементы навигации.
-![Screenshot-2026-10-11-at-9-36-40-AM.png](/img/user/Attachments/Screenshot-2026-10-11-at-9-36-40-AM.png)
+![screenshot-2026-10-11-at-9-36-40-AM.png](/img/user/Attachments/screenshot-2026-10-11-at-9-36-40-AM.png)
 
 ***
 
